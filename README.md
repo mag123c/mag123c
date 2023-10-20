@@ -1,6 +1,8 @@
 # mag123c 😉
 backend dev: 230904 ~
+
 Java -> Node 적응 및 학습을 위한 개인 페이지 운영중입니다.
+
 https://mananaweb.net
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmag123c%2Fmag123c&count_bg=%23EDA4A4&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
