@@ -2,7 +2,8 @@
 기억보단 기록을..
 노력도 재능이다.. 노력하자..
 
-개인 공간들..
+▶️ 개인 공간들
+
 https://mag1c.tistory.com
 
 https://mananaweb.net
