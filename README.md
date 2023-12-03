@@ -1,13 +1,5 @@
 # mag123c 😉
-기억보단 기록을..
-노력도 재능이다.. 노력하자..
-
-▶️ 개인 공간들
-
-https://mag1c.tistory.com
-
-https://mananaweb.net
-
+노력이라는 최고의 재능을 가진 기록하는 개발자.
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmag123c%2Fmag123c&count_bg=%23EDA4A4&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
