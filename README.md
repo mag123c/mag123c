@@ -19,5 +19,5 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white)
  
 # :mailbox_with_mail: Contacts
-[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-red?style=flat-square&logo=tistory&link=https://mag1c.tistory.com/)](https://mag1c.tistory.com/)
+[![Tech_Blog Badge](http://img.shields.io/badge/-Tech%20blog-red?style=flat-square&logo=tistory&link=https://mag1c.tistory.com/)](https://mag1c.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-e6e6e6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diehreo@gmail.com)](mailto:diehreo@gmail.com)
