@@ -1,5 +1,7 @@
-# mag123c 😉
-Dont stop, Just Go!!!!!!
+## mag123c 😉
+## 기억보다는 기록을
+<hr>
+노력은 최고의 재능이다. 노력으로 나는 최고점에 닿을 것이다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmag123c%2Fmag123c&count_bg=%23EDA4A4&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
