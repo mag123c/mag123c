@@ -3,7 +3,7 @@
 
 IF (Just Do Something & Memo) {
 <br>
-<&nbsp><&nbsp><&nbsp>will be (???)
+          will be (???)
 <br>
 }
 
