@@ -1,4 +1,4 @@
-## mag123c 😉 [기억보다는 기록을](https://mga1c.tistory.com)
+## mag123c 😉 [기억보다는 기록을](https://mag1c.tistory.com)
 
 #### Continuous Integration
 #### Code Efficiency
