@@ -18,9 +18,12 @@ jobs:
       - name: Update README
         run: npm start
       - name: Commit README
+        env:
+          GITHUB_TOKEN: ${{ secrets.REP_TOKEN }}
         run: |
-          git add .
           git config --local user.email "diehreo@gmail.com"
           git config --local user.name "mag123c"
+          git remote set-url origin https://x-access-token:${{ secrets.CODINGTEST_WORKFLOW_TOKEN }}@github.com/${{ github.repository }}.git
+          git add .          
           git commit -m "Update README.md"
           git push
