@@ -33,11 +33,14 @@ const parser = new Parser({
         readmeContent += `\n${text}`;
     }
 
-    writeFileSync('README.md', readmeContent, 'utf8', (e) => {
-        if (e) {
-            console.log(e);
-        }
-    });
-
-    console.log(text);
+    if (readFileSync('README.md', 'utf8') !== readmeContent) {
+        writeFileSync('README.md', readmeContent, 'utf8', (e) => {
+            if (e) {
+                console.log(e);
+            }
+        });
+        console.log(text);
+    } else {
+        console.log('No changes detected in README.md');
+    }
 })();
