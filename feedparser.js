@@ -12,10 +12,13 @@ const parser = new Parser({
     try {
         const feed = await parser.parseURL('https://mag1c.tistory.com/rss');
         console.log('RSS feed fetched successfully.');
-        
+
+        let cnt = 0;
         for (const feedItem of feed.items) {
+            if (cnt > 7) break;
             const {title, link} = feedItem;
             text += `- [${title}](${link})</br>\n`;
+            cnt++;
         }
 
         console.log('Parsed RSS feed items:');
