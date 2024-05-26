@@ -18,13 +18,11 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-e6e6e6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diehreo@gmail.com)](mailto:diehreo@gmail.com)
 
 ## 📕 Recent Posting
+- [네트워크 1. LAN과 WAN (허브, 스위치, 라우터, CSMA/CD, ARP, 프레임, 패킷, 홉)](https://mag1c.tistory.com/511)</br>
+- [[알고리즘] LCS(Longest Common Subsequence::최장 공통 부분수열) + Longest Common Substring with Java](https://mag1c.tistory.com/513)</br>
 - [백준, 프로그래머스 문제 업로드 자동화 (백준허브 푸시 -&gt; readme 자동 업데이트)](https://mag1c.tistory.com/512)</br>
 - [[사이드 프로젝트] 운동 기록앱 &quot;오운완&quot; 제작기 - 1](https://mag1c.tistory.com/510)</br>
 - [웹뷰로 기존 NextJS를 모바일 앱으로 배포하기](https://mag1c.tistory.com/509)</br>
 - [클라우드 비용을 줄여보자 (AWS 비용 절감 시도 - 1)](https://mag1c.tistory.com/507)</br>
 - [멜론 플레이리스트 유튜브 뮤직 재생목록으로 옮기기 with NodeJS, Selenium](https://mag1c.tistory.com/506)</br>
 - [[NestJS] Failed to catch error thrown by guard in nestjs in interceptor / guard의 uncaughtException](https://mag1c.tistory.com/505)</br>
-- [[NestJS] enum과 literal type 중 어떤걸 사용할까? (feat. Tree-shaking, Template Literal Ty](https://mag1c.tistory.com/504)</br>
-- [[쿼리튜닝 - 2] 사내 조회쿼리 성능의 개선 과정 두번째 이야기](https://mag1c.tistory.com/503)</br>
-- [사내 개발문화 개선하기 - 깃허브 이슈 사용하기](https://mag1c.tistory.com/502)</br>
-- [[로그 분석/시각화 -2] 실제 서비스에 적용해보기(PLG : Promtail / Loki/ Grafana)](https://mag1c.tistory.com/501)</br>
