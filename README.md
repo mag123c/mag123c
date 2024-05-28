@@ -18,7 +18,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-e6e6e6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diehreo@gmail.com)](mailto:diehreo@gmail.com)
 
 ## 📕 Recent Posting
-- [네트워크 1. LAN과 WAN (허브, 스위치, 라우터, CSMA/CD, ARP, 프레임, 패킷, 홉)](https://mag1c.tistory.com/511)</br>
+- [[네트워크] LAN과 WAN (허브, 스위치, 라우터, CSMA/CD, ARP, 프레임, 패킷, 홉)](https://mag1c.tistory.com/511)</br>
 - [[알고리즘] LCS(Longest Common Subsequence::최장 공통 부분수열) + Longest Common Substring with Java](https://mag1c.tistory.com/513)</br>
 - [백준, 프로그래머스 문제 업로드 자동화 (백준허브 푸시 -&gt; readme 자동 업데이트)](https://mag1c.tistory.com/512)</br>
 - [[사이드 프로젝트] 운동 기록앱 &quot;오운완&quot; 제작기 - 1](https://mag1c.tistory.com/510)</br>
