@@ -1,4 +1,4 @@
-## mag123c 🫰 [Blog](https://mag1c.tistory.com/)
+## mag123c 🫰
 
 Hello, I'm Backend Engineer
 
@@ -15,3 +15,6 @@ Hello, I'm Backend Engineer
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mag123c&show_icons=true&theme=dark)
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diehreo)](https://solved.ac/diehreo/)-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diehreo)](https://solved.ac/diehreo/)
+
+
+### [Blog](https://mag1c.tistory.com/)
