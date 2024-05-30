@@ -1,6 +1,5 @@
-## mag123c 🫰
+## mag123c 🫰[My Blog](https://mag1c.tistory.com/)
 
-Hello, I'm Backend Engineer
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
@@ -17,4 +16,3 @@ Hello, I'm Backend Engineer
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diehreo)](https://solved.ac/diehreo/)
 
 
-### [Blog](https://mag1c.tistory.com/)
