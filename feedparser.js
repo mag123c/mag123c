@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 import Parser from "rss-parser";
 
-let text = `## 📕 Recent Posting\n`;
+let text = `### 📕 Recent Posting\n`;
 
 const parser = new Parser({
     headers: {
@@ -15,7 +15,7 @@ const parser = new Parser({
 
         let cnt = 0;
         for (const feedItem of feed.items) {
-            if (cnt > 7) break;
+            if (cnt > 5) break;
             const {title, link} = feedItem;
             text += `- [${title}](${link})</br>\n`;
             cnt++;
@@ -27,7 +27,7 @@ const parser = new Parser({
         let readmeContent = readFileSync('README.md', 'utf8');
         console.log('Current README.md content fetched.');
 
-        const startMarker = '## 📕 Recent Posting';
+        const startMarker = '### 📕 Recent Posting';
         const endMarker = '\n## ';
         const startIndex = readmeContent.indexOf(startMarker);
         const endIndex = readmeContent.indexOf(endMarker, startIndex + startMarker.length);
