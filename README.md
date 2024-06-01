@@ -1,4 +1,4 @@
-## mag123c 🫰[My Blog](https://mag1c.tistory.com/)
+## mag123c [My Blog](https://mag1c.tistory.com/)
 
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
