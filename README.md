@@ -9,8 +9,8 @@
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [[네트워크] TCP와 UDP (handshake, tcpdump, HTTP/3.0, QUIC)](https://mag1c.tistory.com/517)</br>
 - [[백준 1238번 / Java] 파티 - 다익스트라(Dijkstra)](https://mag1c.tistory.com/516)</br>
-- [[네트워크] TCP와 Handshake (tcpdump를 이용한 tcp 패킷분석)](https://mag1c.tistory.com/515)</br>
 - [[네트워크] IP, 서브넷(서브넷 마스크, 서브네팅), Public IP와 Private IP](https://mag1c.tistory.com/514)</br>
 - [[네트워크] LAN과 WAN (허브, 스위치, 라우터, CSMA/CD, ARP, 프레임, 패킷, 홉)](https://mag1c.tistory.com/511)</br>
 - [[알고리즘] LCS (Longest Common Subsequence, Longest Common Substring)](https://mag1c.tistory.com/513)</br>
