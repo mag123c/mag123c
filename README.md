@@ -9,7 +9,7 @@
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
-- [인프콘 2024 이벤트 참여해서 인프콘 티켓 받자](https://mag1c.tistory.com/527)</br>
+- [인프콘 2024  티켓 이벤트가 있네요](https://mag1c.tistory.com/527)</br>
 - [graphQL의 N + 1문제와 DataLoader](https://mag1c.tistory.com/526)</br>
 - [인프랩 향로(이동욱)님 강연 회고 (데스커 라운지 워크투게더)](https://mag1c.tistory.com/525)</br>
 - [graphQL에 대해 알아보자 (with NestJS, typeORM)](https://mag1c.tistory.com/524)</br>
