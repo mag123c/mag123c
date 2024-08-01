@@ -2,6 +2,8 @@
 
 #### ${\textsf{\color{magenta}Just steady anythhing with whole life}}$
 
+[about me](https://patch-waiter-7c4.notion.site/Backend-Engineer-9e9f886bd1c24018bf1b8eec81ed14eb)
+
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mag123c&show_icons=true&theme=dark)
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diehreo)](https://solved.ac/diehreo/)-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diehreo)](https://solved.ac/diehreo/)
