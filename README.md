@@ -11,9 +11,9 @@
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [인프콘 2024 후기](https://mag1c.tistory.com/535)</br>
 - [복합 인덱스로 쿼리 튜닝하기](https://mag1c.tistory.com/534)</br>
 - [인프런 퇴근길 밋업 - 테스트 코드 후기](https://mag1c.tistory.com/533)</br>
 - [[알고리즘] 위상 정렬(Topology Sort)](https://mag1c.tistory.com/532)</br>
 - [[백준 17472번] 다리 만들기 2 - 그래프 탐색, 최소 신장 트리](https://mag1c.tistory.com/531)</br>
 - [[백준 1774번, 백준 4386번] 우주선, 별자리 만들기 - 최소 신장 트리(MST)](https://mag1c.tistory.com/530)</br>
-- [크루스칼(Kruskal) 알고리즘 (with. 백준 1197번 최소 스패닝 트리)](https://mag1c.tistory.com/529)</br>
