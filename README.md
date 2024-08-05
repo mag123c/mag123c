@@ -11,7 +11,7 @@ Just steady anythhing with whole life
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
-- [인프콘 2024 후기](https://mag1c.tistory.com/535)</br>
+- [인프콘 2024 후기 - 회고? 일기? 사이의 어딘가](https://mag1c.tistory.com/535)</br>
 - [복합 인덱스로 쿼리 튜닝하기](https://mag1c.tistory.com/534)</br>
 - [인프런 퇴근길 밋업 - 테스트 코드 후기](https://mag1c.tistory.com/533)</br>
 - [[알고리즘] 위상 정렬(Topology Sort)](https://mag1c.tistory.com/532)</br>
