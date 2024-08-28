@@ -11,9 +11,9 @@ Just steady anythhing with whole life
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [typeORM을 사용하면서 왜 N+1 문제를 마주하지 못했을까?](https://mag1c.tistory.com/536)</br>
 - [인프콘 2024 후기 - 회고? 일기? 사이의 어딘가](https://mag1c.tistory.com/535)</br>
 - [복합 인덱스로 쿼리 튜닝하기](https://mag1c.tistory.com/534)</br>
 - [인프런 퇴근길 밋업 - 테스트 코드 후기](https://mag1c.tistory.com/533)</br>
 - [[알고리즘] 위상 정렬(Topology Sort)](https://mag1c.tistory.com/532)</br>
 - [[백준 17472번] 다리 만들기 2 - 그래프 탐색, 최소 신장 트리](https://mag1c.tistory.com/531)</br>
-- [[백준 1774번, 백준 4386번] 우주선, 별자리 만들기 - 최소 신장 트리(MST)](https://mag1c.tistory.com/530)</br>
