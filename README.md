@@ -11,7 +11,7 @@ Just steady anythhing with whole life
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
-- [인프랩 면접 후기](https://mag1c.tistory.com/538)</br>
+- [인프랩 면접 회고](https://mag1c.tistory.com/538)</br>
 - [typeORM을 사용하면서 왜 N+1 문제를 마주하지 못했을까?](https://mag1c.tistory.com/536)</br>
 - [인프콘 2024 후기 - 회고? 일기? 사이의 어딘가](https://mag1c.tistory.com/535)</br>
 - [복합 인덱스로 쿼리 튜닝하기](https://mag1c.tistory.com/534)</br>
