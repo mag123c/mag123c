@@ -11,7 +11,7 @@ Just steady anythhing with whole life
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
-- [[NestJS] 레이어간 의존성 낮추기](https://mag1c.tistory.com/539)</br>
+- [[NestJS] 레이어간 의존성 낮추기(Layered Architecture)](https://mag1c.tistory.com/539)</br>
 - [인프랩 면접 회고](https://mag1c.tistory.com/538)</br>
 - [typeORM을 사용하면서 왜 N+1 문제를 마주하지 못했을까?](https://mag1c.tistory.com/536)</br>
 - [인프콘 2024 후기 - 회고? 일기? 사이의 어딘가](https://mag1c.tistory.com/535)</br>
