@@ -11,9 +11,9 @@ Just steady anythhing with whole life
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [처음으로 오픈소스에 기여해보았다 (feat. 오픈소스 멘토링)](https://mag1c.tistory.com/544)</br>
 - [소나큐브(Sonarqube) 도입하기](https://mag1c.tistory.com/542)</br>
 - [의존성 제어 2 - HTTP 클라이언트 의존성 낮추기](https://mag1c.tistory.com/541)</br>
 - [Docker에서 PM2로 전환하여 배포 시간 단축하기](https://mag1c.tistory.com/540)</br>
 - [의존성 제어 1 - 레이어간 의존성 낮추기](https://mag1c.tistory.com/539)</br>
 - [인프랩 면접 회고](https://mag1c.tistory.com/538)</br>
-- [typeORM을 사용하면서 왜 N+1 문제를 마주하지 못했을까?](https://mag1c.tistory.com/536)</br>
