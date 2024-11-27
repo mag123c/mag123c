@@ -19,6 +19,6 @@ Just steady anythhing with whole life
 
 
 ### 📖 Open Source Contribution
-1. NestJS
+1. nestjs
   - swagger: [add documentsEnabled option to disable JSON/YAML](https://github.com/nestjs/swagger/pull/3185)
   - nest/common: [add error messages for file validators](https://github.com/nestjs/nest/pull/14213)
