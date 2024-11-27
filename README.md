@@ -5,7 +5,6 @@ Just steady anythhing with whole life
 [about me](https://patch-waiter-7c4.notion.site/Backend-Engineer-9e9f886bd1c24018bf1b8eec81ed14eb)
 
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mag123c&show_icons=true&theme=dark)
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diehreo)](https://solved.ac/diehreo/)-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diehreo)](https://solved.ac/diehreo/)
 
 
@@ -17,3 +16,9 @@ Just steady anythhing with whole life
 - [Docker에서 PM2로 전환하여 배포 시간 단축하기](https://mag1c.tistory.com/540)</br>
 - [의존성 제어 1 - 레이어간 의존성 낮추기](https://mag1c.tistory.com/539)</br>
 - [인프랩 면접 회고](https://mag1c.tistory.com/538)</br>
+
+
+### 📖 Open Source Contribution
+1. NestJS
+  - swagger: [add documentsEnabled option to disable JSON/YAML](https://github.com/nestjs/swagger/pull/3185)
+  - nest/common: [add error messages for file validators](https://github.com/nestjs/nest/pull/14213)
