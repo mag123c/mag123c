@@ -4,7 +4,7 @@ Just steady anythhing with whole life  [(about me)](https://patch-waiter-7c4.not
 
 
 
-### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+### 📕 Recent Posting ([blog](https://mag1c.tistory.com))
 - [[MySQL] 트랜잭션 격리수준(isolation level)과 이상현상 (with 테스트 코드)](https://mag1c.tistory.com/543)</br>
 - [처음으로 오픈소스에 기여해보았다 (feat. 오픈소스 멘토링)](https://mag1c.tistory.com/544)</br>
 - [소나큐브(Sonarqube) 도입하기](https://mag1c.tistory.com/542)</br>
