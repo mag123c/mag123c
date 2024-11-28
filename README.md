@@ -11,6 +11,8 @@ Just steady anythhing with whole life  [(about me)](https://patch-waiter-7c4.not
 - [의존성 제어 1 - 레이어간 의존성 낮추기](https://mag1c.tistory.com/539)</br>
 
 
+<br>
+
 ## 📖 Open Source Contributions
 - [nest](https://github.com/nestjs/nest)
   - add error messages for file validators [#14213](https://github.com/nestjs/nest/pull/14213)
@@ -18,6 +20,9 @@ Just steady anythhing with whole life  [(about me)](https://patch-waiter-7c4.not
 - [nestjs/swagger](https://github.com/nestjs/swagger)
   - add documentsEnabled option to disable JSON/YAML [#3185](https://github.com/nestjs/swagger/pull/3185)
 
+
+<br>
+<br>
 
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mag123c&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diehreo)](https://solved.ac/diehreo/)
