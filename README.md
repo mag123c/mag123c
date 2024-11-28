@@ -17,7 +17,8 @@ Just steady anythhing with whole life
 ### 📖 Open Source Contributions
 - [nest](https://github.com/nestjs/nest)
   - add error messages for file validators [#14213](https://github.com/nestjs/nest/pull/14213)
-- [nestjs/swagger]
+ 
+- [nestjs/swagger](https://github.com/nestjs/swagger)
   - add documentsEnabled option to disable JSON/YAML [#3185](https://github.com/nestjs/swagger/pull/3185)
 
 
