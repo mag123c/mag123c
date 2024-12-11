@@ -1,4 +1,6 @@
-Just steady anythhing with whole life  [(about me)](https://patch-waiter-7c4.notion.site/Backend-Engineer-9e9f886bd1c24018bf1b8eec81ed14eb)
+Just steady anythhing with whole life
+
+[(resume)](https://patch-waiter-7c4.notion.site/Backend-Engineer-9e9f886bd1c24018bf1b8eec81ed14eb)
 
 
 
