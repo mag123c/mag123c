@@ -14,11 +14,11 @@ Just steady anythhing with whole life  [(about me)](https://patch-waiter-7c4.not
 <br>
 
 ## 📖 Open Source Contributions
-- [nestjs/nest(common)](https://github.com/nestjs/nest)
-  - add error messages for file validators [#14213](https://github.com/nestjs/nest/pull/14213)
+[nestjs/nest(common)](https://github.com/nestjs/nest)
+- add error messages for file validators [#14213](https://github.com/nestjs/nest/pull/14213)
  
-- [nestjs/swagger](https://github.com/nestjs/swagger)
-  - add documentsEnabled option to disable JSON/YAML [#3185](https://github.com/nestjs/swagger/pull/3185)
+[nestjs/swagger](https://github.com/nestjs/swagger)
+- add documentsEnabled option to disable JSON/YAML [#3185](https://github.com/nestjs/swagger/pull/3185)
 
 
 <br>
