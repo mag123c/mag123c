@@ -14,6 +14,7 @@ nest
  
 nestjs/swagger
 - add documentsEnabled option to disable JSON/YAML [#3185](https://github.com/nestjs/swagger/pull/3185)
+- add securityschema extension [#3248](https://github.com/nestjs/swagger/pull/3248)
 
 
 <br>
