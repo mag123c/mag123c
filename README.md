@@ -23,9 +23,9 @@ nestjs/swagger
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [[Nest] Localstack으로 AWS S3 파일 업로드, 삭제, 다운로드 및 테스트 코드 작성하기](https://mag1c.tistory.com/552)</br>
+- [토스 러너스하이 서버 1기 회고](https://mag1c.tistory.com/551)</br>
+- [HTTP Method의 멱등성(Idempotence) 이해하기](https://mag1c.tistory.com/550)</br>
+- [[TypeORM] Join의 속성(RelationOptions)들을 파헤쳐보자](https://mag1c.tistory.com/549)</br>
+- [2024년 회고](https://mag1c.tistory.com/548)</br>
 - [[MySQL] Lost Update와 Write Skew](https://mag1c.tistory.com/547)</br>
-- [[데이터베이스] MVCC(다중 버전 동시성 제어 - Multi Version Concurrency Control)](https://mag1c.tistory.com/546)</br>
-- [하루만에 오픈소스에 기여하기 (nest)](https://mag1c.tistory.com/545)</br>
-- [[MySQL] 트랜잭션 격리수준(isolation level)과 이상현상 (with 테스트 코드)](https://mag1c.tistory.com/543)</br>
-- [처음으로 오픈소스에 기여해보았다 (feat. 오픈소스 멘토링)](https://mag1c.tistory.com/544)</br>
-- [소나큐브(Sonarqube) 도입하기](https://mag1c.tistory.com/542)</br>
