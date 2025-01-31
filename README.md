@@ -23,9 +23,9 @@ nestjs/swagger
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [티스토리 구글 서치 콘솔 미생성 색인 요청 자동화하기 (nodejs)](https://mag1c.tistory.com/554)</br>
 - [[Nest] Localstack으로 AWS S3 파일 업로드, 삭제, 다운로드 및 테스트 코드 작성하기](https://mag1c.tistory.com/552)</br>
 - [토스 러너스하이 서버 1기 회고](https://mag1c.tistory.com/551)</br>
 - [HTTP Method의 멱등성(Idempotence) 이해하기](https://mag1c.tistory.com/550)</br>
 - [[TypeORM] Join의 속성(RelationOptions)들을 파헤쳐보자](https://mag1c.tistory.com/549)</br>
 - [2024년 회고](https://mag1c.tistory.com/548)</br>
-- [[MySQL] Lost Update와 Write Skew](https://mag1c.tistory.com/547)</br>
