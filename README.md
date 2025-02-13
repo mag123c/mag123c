@@ -23,9 +23,9 @@ nestjs/swagger
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [[Kotlin] 코틀린 기본 문법 파헤치기 with Docs - 1 (Basic types, Collections(+ Sequence), 조건문, 반복문)](https://mag1c.tistory.com/558)</br>
+- [NestJS 11에서 의존성 초기화 성능 이슈를 어떻게 해결했을까?](https://mag1c.tistory.com/556)</br>
 - [[Redis] Data Types 정리](https://mag1c.tistory.com/555)</br>
 - [NestJS v11 살펴보기: 부트스트랩 최적화로 앱 실행 성능 개선](https://mag1c.tistory.com/553)</br>
 - [티스토리 구글 서치 콘솔 미생성 색인 요청 자동화하기](https://mag1c.tistory.com/554)</br>
 - [[Nest] Localstack으로 AWS S3 파일 업로드, 삭제, 다운로드 및 테스트 코드 작성하기](https://mag1c.tistory.com/552)</br>
-- [토스 러너스하이 서버 1기 회고](https://mag1c.tistory.com/551)</br>
-- [HTTP Method의 멱등성(Idempotence) 이해하기](https://mag1c.tistory.com/550)</br>
