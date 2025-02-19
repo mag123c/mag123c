@@ -10,11 +10,17 @@ Just steady anythhing with whole life
 
 ## 📖 Open Source Contributions
 nest
-- add error messages for file validators [#14213](https://github.com/nestjs/nest/pull/14213)
- 
+ - feat: add error messages for file validators [#14213](https://github.com/nestjs/nest/pull/14213)
+
 nestjs/swagger
-- add documentsEnabled option to disable JSON/YAML [#3185](https://github.com/nestjs/swagger/pull/3185)
-- add securityschema extension [#3248](https://github.com/nestjs/swagger/pull/3248)
+ - feat: add documentsEnabled option to disable JSON/YAML [#3185](https://github.com/nestjs/swagger/pull/3185)
+ - bugfix: add options in createEnumSchemaType [#3307](https://github.com/nestjs/swagger/pull/3307)
+ - feat: add securityschema extension [#3248](https://github.com/nestjs/swagger/pull/3248)
+ 
+nesjs/docs.nestjs.com
+ - docs(swc): vitest alias resolution configuration [#3204](https://github.com/nestjs/docs.nestjs.com/pull/3204/checks)
+ - docs(swagger): add ui/raws description & hint [#3206](https://github.com/nestjs/docs.nestjs.com/pull/3206/checks)
+ 
 
 
 <br>
