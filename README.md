@@ -27,7 +27,7 @@ nesjs/docs.nestjs.com
 <br>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/mag123c?pet-id=684267665441185933" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/mag123c"/>
 </a>
 
 <br>
