@@ -34,9 +34,9 @@ nesjs/docs.nestjs.com
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [NestJS의 MIME Type 보안 취약점(에 기여할 뻔한 이야기)](https://mag1c.tistory.com/562)</br>
 - [Redis Client 모듈을 직접 만들고 NPM에 배포하기 (NestJS + ioredis)](https://mag1c.tistory.com/561)</br>
 - [[Kotlin] Collections: 시퀀스(Sequences)는 무엇이고 언제 사용해야할까](https://mag1c.tistory.com/559)</br>
 - [[Kotlin] 기본 문법 - Basic types, Collections, 조건문, 반복문](https://mag1c.tistory.com/558)</br>
 - [NestJS 11에서 의존성 초기화 성능 이슈를 어떻게 해결했을까?](https://mag1c.tistory.com/556)</br>
 - [[Redis] Data Types 정리](https://mag1c.tistory.com/555)</br>
-- [NestJS v11 살펴보기: 부트스트랩 최적화로 앱 실행 성능 개선](https://mag1c.tistory.com/553)</br>
