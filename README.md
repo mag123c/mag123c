@@ -9,6 +9,7 @@ Just steady anythhing with whole life
 ## 📖 Open Source Contributions
 nest
  - feat: add error messages for file validators [#14213](https://github.com/nestjs/nest/pull/14213)
+ - feat: add fallbackToMimetype support in FileTypeValidator [#14995](https://github.com/nestjs/nest/pull/14995)
 
 nestjs/swagger
  - feat: add documentsEnabled option to disable JSON/YAML [#3185](https://github.com/nestjs/swagger/pull/3185)
