@@ -35,9 +35,9 @@ nesjs/docs.nestjs.com
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [25년 상반기(~4월)의 오픈소스 기여](https://mag1c.tistory.com/565)</br>
 - [TypeScript로 힙(Heap), 우선순위 큐(Priority Queue) 구현하기.](https://mag1c.tistory.com/564)</br>
 - [JavaScript의 메모리 구조와 관리, V8의 가비지 컬렉션 (스택이 무한정 커지면 힙은 불필요할까?)](https://mag1c.tistory.com/563)</br>
 - [NestJS의 MIME Type 보안 취약점(에 기여할 뻔한 이야기)](https://mag1c.tistory.com/562)</br>
 - [Redis Client 모듈을 직접 만들고 NPM에 배포하기 (NestJS + ioredis)](https://mag1c.tistory.com/561)</br>
 - [[Kotlin] Collections: 시퀀스(Sequences)는 무엇이고 언제 사용해야할까](https://mag1c.tistory.com/559)</br>
-- [[Kotlin] 기본 문법 - Basic types, Collections, 조건문, 반복문](https://mag1c.tistory.com/558)</br>
