@@ -8,8 +8,9 @@ Just steady anythhing with whole life
 
 ## 📖 Open Source Contributions
 nest
- - feat: add error messages for file validators [#14213](https://github.com/nestjs/nest/pull/14213)
- - feat: add fallbackToMimetype support in FileTypeValidator [#14995](https://github.com/nestjs/nest/pull/14995)
+ - feat(common): add error messages for file validators [#14213](https://github.com/nestjs/nest/pull/14213)
+ - feat(common): add fallbackToMimetype support in FileTypeValidator [#14995](https://github.com/nestjs/nest/pull/14995)
+ - fix(microservice): support custom strategy in async usefactory config when inject any microservice [#15172](https://github.com/nestjs/nest/pull/15172)
 
 nestjs/swagger
  - feat: add documentsEnabled option to disable JSON/YAML [#3185](https://github.com/nestjs/swagger/pull/3185)
@@ -20,6 +21,9 @@ nesjs/docs.nestjs.com
  - docs(swc): vitest alias resolution configuration [#3204](https://github.com/nestjs/docs.nestjs.com/pull/3204/checks)
  - docs(swagger): add ui/raws description & hint [#3206](https://github.com/nestjs/docs.nestjs.com/pull/3206/checks)
  
+node
+ - doc: improve agent.createConnection for http and https agents [#58205](https://github.com/nodejs/node/pull/58205)
+
 
 
 <br>
