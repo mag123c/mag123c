@@ -7,22 +7,22 @@ Just steady anythhing with whole life
 <br>
 
 ## 📖 Open Source Contributions
-nest
- - feat(common): add error messages for file validators [#14213](https://github.com/nestjs/nest/pull/14213)
- - feat(common): add fallbackToMimetype support in FileTypeValidator [#14995](https://github.com/nestjs/nest/pull/14995)
- - fix(microservice): support custom strategy in async usefactory config when inject any microservice [#15172](https://github.com/nestjs/nest/pull/15172)
+### [nestjs/nest](https://github.com/nestjs/nest)
+- feat(common): add error messages for file validators [#14213](https://github.com/nestjs/nest/pull/14213)
+- feat(common): add fallbackToMimetype support in FileTypeValidator [#14995](https://github.com/nestjs/nest/pull/14995)
+- fix(microservice): support custom strategy in async usefactory config when inject any microservice [#15172](https://github.com/nestjs/nest/pull/15172)
 
-nestjs/swagger
- - feat: add documentsEnabled option to disable JSON/YAML [#3185](https://github.com/nestjs/swagger/pull/3185)
- - bugfix: add options in createEnumSchemaType [#3307](https://github.com/nestjs/swagger/pull/3307)
- - feat: add securityschema extension [#3248](https://github.com/nestjs/swagger/pull/3248)
- 
-nesjs/docs.nestjs.com
- - docs(swc): vitest alias resolution configuration [#3204](https://github.com/nestjs/docs.nestjs.com/pull/3204/checks)
- - docs(swagger): add ui/raws description & hint [#3206](https://github.com/nestjs/docs.nestjs.com/pull/3206/checks)
- 
-node
- - doc: improve agent.createConnection for http and https agents [#58205](https://github.com/nodejs/node/pull/58205)
+### [nestjs/swagger](https://github.com/nestjs/swagger)
+- feat: add documentsEnabled option to disable JSON/YAML [#3185](https://github.com/nestjs/swagger/pull/3185)
+- bugfix: add options in createEnumSchemaType [#3307](https://github.com/nestjs/swagger/pull/3307)
+- feat: add securityschema extension [#3248](https://github.com/nestjs/swagger/pull/3248)
+
+### [nestjs/docs.nestjs.com](https://github.com/nestjs/docs.nestjs.com)
+- docs(swc): vitest alias resolution configuration [#3204](https://github.com/nestjs/docs.nestjs.com/pull/3204/checks)
+- docs(swagger): add ui/raws description & hint [#3206](https://github.com/nestjs/docs.nestjs.com/pull/3206/checks)
+
+### [nodejs/node](https://github.com/nodejs/node)
+- doc: improve agent.createConnection for http and https agents [#58205](https://github.com/nodejs/node/pull/58205)
 
 
 
