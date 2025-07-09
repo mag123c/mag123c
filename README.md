@@ -39,7 +39,7 @@ Just steady anythhing with whole life
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
-- [당신의 비밀번호 암호화는 틀렸다.](https://mag1c.tistory.com/572)</br>
+- [최근 보안이슈(SKT, 예스24 개인정보 유출) 때문에 돌아본 단방향 암호화.](https://mag1c.tistory.com/572)</br>
 - [오픈소스 기여가 어렵다구요? AI로 딸깍, 끝? (오픈소스 멘토링 8기 후기)](https://mag1c.tistory.com/571)</br>
 - [JavaScript 객체는 해시 테이블이 아닌가? &ndash; V8의 Hidden Class와 Inline Caching](https://mag1c.tistory.com/570)</br>
 - [Docker로 Redis Sentinel 구성하기.](https://mag1c.tistory.com/569)</br>
