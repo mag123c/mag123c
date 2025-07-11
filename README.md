@@ -18,12 +18,12 @@ Just steady anythhing with whole life
 - feat: add securityschema extension [#3248](https://github.com/nestjs/swagger/pull/3248)
 
 ### [nestjs/docs.nestjs.com](https://github.com/nestjs/docs.nestjs.com)
-- docs(swc): vitest alias resolution configuration [#3204](https://github.com/nestjs/docs.nestjs.com/pull/3204/checks)
-- docs(swagger): add ui/raws description & hint [#3206](https://github.com/nestjs/docs.nestjs.com/pull/3206/checks)
+- doc(swc): vitest alias resolution configuration [#3204](https://github.com/nestjs/docs.nestjs.com/pull/3204/checks)
+- doc(swagger): add ui/raws description & hint [#3206](https://github.com/nestjs/docs.nestjs.com/pull/3206/checks)
 
 ### [nodejs/node](https://github.com/nodejs/node)
-- doc: improve agent.createConnection for http and https agents [#58205](https://github.com/nodejs/node/pull/58205)
-- doc: enhance glob pattern documentation in fs.md [#58988](https://github.com/nodejs/node/pull/58988)
+- doc(http): improve agent.createConnection for http and https agents [#58205](https://github.com/nodejs/node/pull/58205)
+- doc(http): enhance glob pattern documentation in fs.md [#58988](https://github.com/nodejs/node/pull/58988)
 - fix(fs): prevent ENOENT on subst drive root paths like "M:\\" on Windows [#58989](https://github.com/nodejs/node/pull/58989)
 
 
