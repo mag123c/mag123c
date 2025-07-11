@@ -23,6 +23,8 @@ Just steady anythhing with whole life
 
 ### [nodejs/node](https://github.com/nodejs/node)
 - doc: improve agent.createConnection for http and https agents [#58205](https://github.com/nodejs/node/pull/58205)
+- doc: enhance glob pattern documentation in fs.md [#58988](https://github.com/nodejs/node/pull/58988)
+- fix(fs): prevent ENOENT on subst drive root paths like "M:\\" on Windows [#58989](https://github.com/nodejs/node/pull/58989)
 
 
 
