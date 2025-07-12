@@ -6,27 +6,23 @@ Just steady anythhing with whole life
 <br>
 <br>
 
+
+  
 ## 📖 Open Source Contributions
-### [nestjs/nest](https://github.com/nestjs/nest)
-- feat(common): add error messages for file validators [#14213](https://github.com/nestjs/nest/pull/14213)
-- feat(common): add fallbackToMimetype support in FileTypeValidator [#14995](https://github.com/nestjs/nest/pull/14995)
-- fix(microservice): support custom strategy in async usefactory config when inject any microservice [#15172](https://github.com/nestjs/nest/pull/15172)
+### [nestjs](https://github.com/nestjs)
+- Improved file validation error messages with dynamic context like file size and MIME type [#14213](https://github.com/nestjs/nest/pull/14213)
+- Added mimetype fallback for more reliable file type validation [#14995](https://github.com/nestjs/nest/pull/14995)
+- Fixed custom transport strategy injection in dynamic microservice configuration [#15172](https://github.com/nestjs/nest/pull/15172)
+- Added options to selectively disable Swagger UI and JSON/YAML endpoints [#3185](https://github.com/nestjs/swagger/pull/3185)
+- Restored x-enumNames support for better API client generator compatibility [#3307](https://github.com/nestjs/swagger/pull/3307)
+- Added custom extension properties support for security schemes [#3248](https://github.com/nestjs/swagger/pull/3248)
+- Added Vitest alias resolution configuration for SWC setup [#3204](https://github.com/nestjs/docs.nestjs.com/pull/3204/checks)
+- Improved Swagger UI and raw options documentation [#3206](https://github.com/nestjs/docs.nestjs.com/pull/3206/checks)
 
-### [nestjs/swagger](https://github.com/nestjs/swagger)
-- feat: add documentsEnabled option to disable JSON/YAML [#3185](https://github.com/nestjs/swagger/pull/3185)
-- bugfix: add options in createEnumSchemaType [#3307](https://github.com/nestjs/swagger/pull/3307)
-- feat: add securityschema extension [#3248](https://github.com/nestjs/swagger/pull/3248)
-
-### [nestjs/docs.nestjs.com](https://github.com/nestjs/docs.nestjs.com)
-- doc(swc): vitest alias resolution configuration [#3204](https://github.com/nestjs/docs.nestjs.com/pull/3204/checks)
-- doc(swagger): add ui/raws description & hint [#3206](https://github.com/nestjs/docs.nestjs.com/pull/3206/checks)
-
-### [nodejs/node](https://github.com/nodejs/node)
-- doc(http): improve agent.createConnection for http and https agents [#58205](https://github.com/nodejs/node/pull/58205)
-- doc(http): enhance glob pattern documentation in fs.md [#58988](https://github.com/nodejs/node/pull/58988)
-- fix(fs): prevent ENOENT on subst drive root paths like "M:\\" on Windows [#58989](https://github.com/nodejs/node/pull/58989)
-
-
+### [nodejs](https://github.com/nodejs)
+- Enhanced HTTP agent createConnection documentation with synchronous behavior clarification [#58205](https://github.com/nodejs/node/pull/58205)
+- Improved glob pattern documentation with detailed syntax and examples [#58988](https://github.com/nodejs/node/pull/58988)
+- Fixed ENOENT errors on Windows drive root paths [#58989](https://github.com/nodejs/node/pull/58989)
 
 <br>
 <br>
