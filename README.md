@@ -1,11 +1,5 @@
 Just steady anythhing with whole life
 
-![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mag123c&show_icons=true&theme=dark)
-
-<br>
-<br>
-
-
   
 ## 📖 Open Source Contributions
 ### [nestjs](https://github.com/nestjs)
