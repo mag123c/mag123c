@@ -10,13 +10,13 @@ Just steady anythhing with whole life
 ## 📖 Open Source Contributions
 ### [nestjs](https://github.com/nestjs)
 - Improved file validation error messages with dynamic context like file size and MIME type [#14213](https://github.com/nestjs/nest/pull/14213)
-- Added mimetype fallback for more reliable file type validation [#14995](https://github.com/nestjs/nest/pull/14995)
-- Fixed custom transport strategy injection in dynamic microservice configuration [#15172](https://github.com/nestjs/nest/pull/15172)
 - Added options to selectively disable Swagger UI and JSON/YAML endpoints [#3185](https://github.com/nestjs/swagger/pull/3185)
-- Restored x-enumNames support for better API client generator compatibility [#3307](https://github.com/nestjs/swagger/pull/3307)
-- Added custom extension properties support for security schemes [#3248](https://github.com/nestjs/swagger/pull/3248)
 - Added Vitest alias resolution configuration for SWC setup [#3204](https://github.com/nestjs/docs.nestjs.com/pull/3204)
+- Restored x-enumNames support for better API client generator compatibility [#3307](https://github.com/nestjs/swagger/pull/3307)
 - Improved Swagger UI and raw options documentation [#3206](https://github.com/nestjs/docs.nestjs.com/pull/3206)
+- Added custom extension properties support for security schemes [#3248](https://github.com/nestjs/swagger/pull/3248)
+- Fixed custom transport strategy injection in dynamic microservice configuration [#15172](https://github.com/nestjs/nest/pull/15172)
+- Added mimetype fallback for more reliable file type validation [#14995](https://github.com/nestjs/nest/pull/14995)
 - Fixed FastifyAdapter middleware registration before init in testing scenarios [#15385](https://github.com/nestjs/nest/pull/15385)
 
 ### [nodejs](https://github.com/nodejs)
