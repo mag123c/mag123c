@@ -42,9 +42,9 @@
 - [겜스고(GamsGo) - ChatGPT 외 다수 AI, 유튜브 프리미엄, 넷플릭스 등을 싸게 이용하기 (구독 공유 플랫폼)](https://mag1c.tistory.com/567)</br>
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [NestJS Express&harr;Fastify 미들웨어 등록 일관성 개선하기 (오픈소스 기여)](https://mag1c.tistory.com/573)</br>
 - [최근 보안이슈(SKT, 예스24 개인정보 유출) 때문에 돌아본 단방향 암호화.](https://mag1c.tistory.com/572)</br>
 - [오픈소스 기여가 어렵다구요? AI로 딸깍, 끝? (오픈소스 멘토링 8기 후기)](https://mag1c.tistory.com/571)</br>
 - [JavaScript 객체는 해시 테이블이 아닌가? &ndash; V8의 Hidden Class와 Inline Caching](https://mag1c.tistory.com/570)</br>
 - [Docker로 Redis Sentinel 구성하기.](https://mag1c.tistory.com/569)</br>
 - [Redis의 고가용성(HA: High Availability) 설계를 위한 위한 Redis Sentinel에 대해 알아보자.](https://mag1c.tistory.com/568)</br>
-- [겜스고(GamsGo) - ChatGPT 외 다수 AI, 유튜브 프리미엄, 넷플릭스 등을 싸게 이용하기 (구독 공유 플랫폼)](https://mag1c.tistory.com/567)</br>
