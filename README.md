@@ -13,6 +13,8 @@
 - swagger: Added options to selectively disable Swagger UI and JSON/YAML endpoints [#3185](https://github.com/nestjs/swagger/pull/3185)
 - swagger: Added custom extension properties support for security schemes [#3248](https://github.com/nestjs/swagger/pull/3248)
 - swagger: Restored x-enumNames support for better API client generator compatibility [#3307](https://github.com/nestjs/swagger/pull/3307)
+- terminus: add forRootAsync for DynamicModule Configurations [#2670](https://github.com/nestjs/terminus/pull/2670)
+- terminus: enhanced production-ready with GracefulShutdown sequence [#2671](https://github.com/nestjs/terminus/pull/2671)
 - docs: Added Vitest alias resolution configuration for SWC setup [#3204](https://github.com/nestjs/docs.nestjs.com/pull/3204)
 - docs: Improved Swagger UI and raw options documentation [#3206](https://github.com/nestjs/docs.nestjs.com/pull/3206)
 
@@ -21,6 +23,12 @@
 - Improved glob pattern documentation with detailed syntax and examples [#58988](https://github.com/nodejs/node/pull/58988)
 - Fixed ENOENT errors on Windows drive root paths [#58989](https://github.com/nodejs/node/pull/58989)
 - Added exclude option to path.matchesGlob method for advanced pattern filtering and fs.glob consistency [#59061](https://github.com/nodejs/node/pull/59061)
+
+### [grafana/loki](https://github.com/grafana/loki)
+- feat: add default loki-mixin dashboards to TSDB [#18732](https://github.com/grafana/loki/pull/18732)
+
+### [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+- perf: parallelize memory discovery file operations 60%+ performance gain [#5751](https://github.com/google-gemini/gemini-cli/pull/5751)
 
 <br>
 <br>
