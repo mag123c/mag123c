@@ -42,9 +42,9 @@
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [[Rate Limit - 3] Fixed Window Counter, Sliding Window Logging, Sliding Window Counter 알고리즘](https://mag1c.tistory.com/578)</br>
 - [[Rate Limit - 2] Token Bucket, Leaky Bucket 알고리즘](https://mag1c.tistory.com/577)</br>
 - [[Rate Limit - 1] Rate Limit이란? (설계 시 주의사항)](https://mag1c.tistory.com/576)</br>
 - [Claude Code Max (100 달러) 한 달 사용 후기](https://mag1c.tistory.com/575)</br>
 - [님 방능임? 스타크래프트/워크래프트 포트포워딩의 원리](https://mag1c.tistory.com/574)</br>
 - [오픈소스 기여하기) NestJS Express&harr;Fastify 미들웨어 등록 일관성 개선하기](https://mag1c.tistory.com/573)</br>
-- [최근 보안이슈(SKT, 예스24 개인정보 유출) 때문에 돌아본 단방향 암호화.](https://mag1c.tistory.com/572)</br>
