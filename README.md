@@ -10,11 +10,13 @@
 - common: Added forceConsole option to ConsoleLogger for bypassing custom loggers when needed [#15503](https://github.com/nestjs/nest/pull/15503)
 - microservices: Fixed custom transport strategy injection in dynamic microservice configuration [#15172](https://github.com/nestjs/nest/pull/15172)
 - platform-fastify: Fixed FastifyAdapter middleware registration before init in testing scenarios [#15385](https://github.com/nestjs/nest/pull/15385)
+- graphql: add typeName option for custom type naming [#3678](https://github.com/nestjs/graphql/pull/3678)
 - swagger: Added options to selectively disable Swagger UI and JSON/YAML endpoints [#3185](https://github.com/nestjs/swagger/pull/3185)
 - swagger: Added custom extension properties support for security schemes [#3248](https://github.com/nestjs/swagger/pull/3248)
 - swagger: Restored x-enumNames support for better API client generator compatibility [#3307](https://github.com/nestjs/swagger/pull/3307)
 - terminus: add forRootAsync for DynamicModule Configurations [#2670](https://github.com/nestjs/terminus/pull/2670)
 - terminus: enhanced production-ready with GracefulShutdown sequence [#2671](https://github.com/nestjs/terminus/pull/2671)
+- terminus: update amqplib to 0.10.6 for rmq 4.1+ compatibility [#2673](https://github.com/nestjs/terminus/pull/2673)
 - docs: Added Vitest alias resolution configuration for SWC setup [#3204](https://github.com/nestjs/docs.nestjs.com/pull/3204)
 - docs: Improved Swagger UI and raw options documentation [#3206](https://github.com/nestjs/docs.nestjs.com/pull/3206)
 
