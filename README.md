@@ -27,7 +27,7 @@
 - Added exclude option to path.matchesGlob method for advanced pattern filtering and fs.glob consistency [#59061](https://github.com/nodejs/node/pull/59061)
 
 ### [prisma](https://github.com/prisma/prisma)
-- fix(client): add default generic parameters to PrismaClient constructor(6.14.0 breaking changes)[#27897](https://github.com/prisma/prisma/pull/27897)
+- fix(client): add default generic parameters to PrismaClient constructor(6.14.0 breaking changes) [#27897](https://github.com/prisma/prisma/pull/27897)
 
 
 ### [grafana/loki](https://github.com/grafana/loki)
