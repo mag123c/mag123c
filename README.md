@@ -48,9 +48,9 @@
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [Prisma는 왜 Type-Safe할까?](https://mag1c.tistory.com/581)</br>
 - [바이브 코딩으로 티스토리 커스텀 스킨 만들기 (Feat. Claude code)](https://mag1c.tistory.com/579)</br>
 - [[Rate Limit - 3] Fixed Window Counter, Sliding Window Logging, Sliding Window Counter 알고리즘](https://mag1c.tistory.com/578)</br>
 - [[Rate Limit - 2] Token Bucket, Leaky Bucket 알고리즘](https://mag1c.tistory.com/577)</br>
 - [[Rate Limit - 1] Rate Limit이란? (설계 시 주의사항)](https://mag1c.tistory.com/576)</br>
 - [Claude Code Max (100 달러) 한 달 사용 후기](https://mag1c.tistory.com/575)</br>
-- [님 방능임? 스타크래프트/워크래프트 포트포워딩의 원리](https://mag1c.tistory.com/574)</br>
