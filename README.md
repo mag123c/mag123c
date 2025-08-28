@@ -48,9 +48,9 @@
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [여러 Claude Max 계정에서 Claude Code 실행 환경 세팅하기](https://mag1c.tistory.com/582)</br>
 - [Prisma v6.14.0의 성능 개선에 따른 브레이킹 체인지, 이에 기여한 이야기.](https://mag1c.tistory.com/580)</br>
 - [Prisma는 왜 Type-Safe할까?](https://mag1c.tistory.com/581)</br>
 - [티스토리 스킨 무료 배포합니다!! 제발 사용해주세요!!](https://mag1c.tistory.com/579)</br>
 - [[Rate Limit - 3] Fixed Window Counter, Sliding Window Logging, Sliding Window Counter 알고리즘](https://mag1c.tistory.com/578)</br>
 - [[Rate Limit - 2] Token Bucket, Leaky Bucket 알고리즘](https://mag1c.tistory.com/577)</br>
-- [[Rate Limit - 1] Rate Limit이란? (설계 시 주의사항)](https://mag1c.tistory.com/576)</br>
