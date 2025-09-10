@@ -36,10 +36,6 @@
 ### [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 - ✅ perf: parallelize memory discovery file operations 60%+ performance gain [#5751](https://github.com/google-gemini/gemini-cli/pull/5751)
 
-### [TypeScript](https://github.com/google-gemini/gemini-cli)
-- 🔄 fix(checker): detect self-reference in parameter property initializers [#62412](https://github.com/microsoft/TypeScript/pull/62412)
-- 🔄 fix: findAllReferences for export= namespace with ES6 imports [#62420](https://github.com/microsoft/TypeScript/pull/62420)
-
 <br>
 <br>
 
