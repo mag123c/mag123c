@@ -19,9 +19,10 @@
   - ✅ graphql: Added typeName option for custom type naming [#3678](https://github.com/nestjs/graphql/pull/3678)
   
   [**swagger**](https://github.com/nestjs/swagger)
-  - ✅ swagger: Added options to selectively disable Swagger UI and JSON/YAML endpoints [#3185](https://github.com/nestjs/swagger/pull/3185)
-  - ✅ swagger: Added custom extension properties support for security schemes [#3248](https://github.com/nestjs/swagger/pull/3248)
-  - ✅ swagger: Restored x-enumNames support for better API client generator compatibility [#3307](https://github.com/nestjs/swagger/pull/3307)
+  - ✅ Added options to selectively disable Swagger UI and JSON/YAML endpoints [#3185](https://github.com/nestjs/swagger/pull/3185)
+  - ✅ Added custom extension properties support for security schemes [#3248](https://github.com/nestjs/swagger/pull/3248)
+  - ✅ Restored x-enumNames support for better API client generator compatibility [#3307](https://github.com/nestjs/swagger/pull/3307)
+  - 🔄 Added type definition for format option in @ApiProperty() [#3596](https://github.com/nestjs/swagger/pull/3596)
   
   [**terminus**](https://github.com/nestjs/terminus)
   - ✅ terminus: Added forRootAsync for DynamicModule Configurations [#2670](https://github.com/nestjs/terminus/pull/2670)
