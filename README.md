@@ -65,9 +65,9 @@
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [NodeJS v25의 변경사항을 알아보자](https://mag1c.tistory.com/587)</br>
 - [MyISAM에서 트랜잭션 사용하기](https://mag1c.tistory.com/586)</br>
 - [개발자로서 첫 발표를 마치고](https://mag1c.tistory.com/585)</br>
 - [Claude Code, OOM과 할루시네이션 없이 똑똑하게 사용하는 메모리 최적화 전략](https://mag1c.tistory.com/584)</br>
 - [Gemini-CLI 실행 속도 개선에 기여하기](https://mag1c.tistory.com/583)</br>
 - [여러 Claude Max 계정에서 Claude Code 실행 환경 세팅하기](https://mag1c.tistory.com/582)</br>
-- [Prisma v6.14.0의 성능 개선에 따른 브레이킹 체인지, 이에 기여한 이야기.](https://mag1c.tistory.com/580)</br>
