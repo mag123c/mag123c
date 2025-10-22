@@ -25,6 +25,7 @@
   - ✅ Added options to selectively disable Swagger UI and JSON/YAML endpoints [#3185](https://github.com/nestjs/swagger/pull/3185)
   - ✅ Added custom extension properties support for security schemes [#3248](https://github.com/nestjs/swagger/pull/3248)
   - ✅ Restored x-enumNames support for better API client generator compatibility [#3307](https://github.com/nestjs/swagger/pull/3307)
+  - ✅ Added skipDefaultValues option to omit unspecified default fields and corresponding test [#3423](https://github.com/nestjs/swagger/pull/3423)
   - 🔄 Added type definition for format option in @ApiProperty() [#3596](https://github.com/nestjs/swagger/pull/3596)
   
   [**terminus**](https://github.com/nestjs/terminus)
