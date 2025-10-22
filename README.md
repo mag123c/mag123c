@@ -8,6 +8,7 @@
   [**nest**](https://github.com/nestjs/nest)
   - ✅ common: Improved file validation error messages with dynamic context like file size and MIME type [#14213](https://github.com/nestjs/nest/pull/14213)
   - ✅ common: Added mimetype fallback for more reliable file type validation [#14995](https://github.com/nestjs/nest/pull/14995)
+  - 🔄 common: Backport FileTypeValidator fallback support to v10 [#15003](https://github.com/nestjs/nest/pull/15003)
   - ✅ common: Added forceConsole option to ConsoleLogger for bypassing custom loggers when needed [#15503](https://github.com/nestjs/nest/pull/15503)
   - ❌ core: Added declarative route rewrites support for backward compatibility [#15630](https://github.com/nestjs/nest/pull/15630)
   - ✅ core: Skip lifecycle hooks for non-instantiated transient services [#15571](https://github.com/nestjs/nest/pull/15571)
@@ -15,6 +16,7 @@
   - 🔄 core: Ensure nested transient provider isolation [#15815](https://github.com/nestjs/nest/pull/15815)
   - ✅ microservices: Fixed custom transport strategy injection in dynamic microservice configuration [#15172](https://github.com/nestjs/nest/pull/15172)
   - ✅ platform-fastify: Fixed FastifyAdapter middleware registration before init in testing scenarios [#15385](https://github.com/nestjs/nest/pull/15385)
+  - 🔄 sample: Fixed Sample for update gql federation samples to use production-ready [#15539](https://github.com/nestjs/nest/pull/15539)
   
   [**graphql**](https://github.com/nestjs/graphql)
   - ✅ graphql: Added typeName option for custom type naming [#3678](https://github.com/nestjs/graphql/pull/3678)
