@@ -1,4 +1,6 @@
 ### 🔥 Just steady anythhing with whole life 🔥
+### 🔥 JUST DO IT ✔ 🔥
+### 🔥 그냥 해 🔥
 
 <br>
 <br>
