@@ -1,4 +1,4 @@
-<p>$\huge{\color{#5ad7b7} Just\ steady\ anythhing\ with\ whole\ life}$</p>
+🔥 Just steady anythhing with whole life 🔥
 
 <br>
 <br>
