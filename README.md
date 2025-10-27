@@ -19,7 +19,7 @@
   - ✅ microservices: Fixed custom transport strategy injection in dynamic microservice configuration [#15172](https://github.com/nestjs/nest/pull/15172)
   - ✅ platform-fastify: Fixed FastifyAdapter middleware registration before init in testing scenarios [#15385](https://github.com/nestjs/nest/pull/15385)
   - 🔄 sample: Fixed Sample for update gql federation samples to use production-ready [#15539](https://github.com/nestjs/nest/pull/15539)
-  - 🔄 sample: Made sample 34 test resilient to external package format changes [#15835](https://github.com/nestjs/nest/pull/15835)
+  - ✅ sample: Made sample 34 test resilient to external package format changes [#15835](https://github.com/nestjs/nest/pull/15835)
   
   [**graphql**](https://github.com/nestjs/graphql)
   - ✅ graphql: Added typeName option for custom type naming [#3678](https://github.com/nestjs/graphql/pull/3678)
