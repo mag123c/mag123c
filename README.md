@@ -39,11 +39,12 @@
   - ✅ docs: Improved Swagger UI and raw options documentation [#3206](https://github.com/nestjs/docs.nestjs.com/pull/3206)
 
 ### [nodejs](https://github.com/nodejs)
-- 🔄 Enhanced HTTP agent createConnection documentation with synchronous behavior clarification [#58205](https://github.com/nodejs/node/pull/58205)
-- 🔄 Improved glob pattern documentation with detailed syntax and examples [#58988](https://github.com/nodejs/node/pull/58988)
-- 🔄 Fixed ENOENT errors on Windows drive root paths [#58989](https://github.com/nodejs/node/pull/58989)
-- 🔄 Added exclude option to path.matchesGlob method for advanced pattern filtering and fs.glob consistency [#59061](https://github.com/nodejs/node/pull/59061)
-- 🔄 Added test runner's classname hierarchy for JUnit reporter [#60220](https://github.com/nodejs/node/pull/60220)
+- 🔄 doc: Enhanced HTTP agent createConnection documentation with synchronous behavior clarification [#58205](https://github.com/nodejs/node/pull/58205)
+- 🔄 doc: Improved glob pattern documentation with detailed syntax and examples [#58988](https://github.com/nodejs/node/pull/58988)
+- 🔄 fs: Fixed ENOENT errors on Windows drive root paths [#58989](https://github.com/nodejs/node/pull/58989)
+- 🔄 path: Added exclude option to path.matchesGlob method for advanced pattern filtering and fs.glob consistency [#59061](https://github.com/nodejs/node/pull/59061)
+- 🔄 test_runner: Added classname hierarchy for JUnit reporter [#60220](https://github.com/nodejs/node/pull/60220)
+- 🔄 esm: Fixed improve error messages for ambiguous module syntax [#60376](https://github.com/nodejs/node/pull/60376)
 
 ### [prisma](https://github.com/prisma/prisma)
 - ✅ fix(client): add default generic parameters to PrismaClient constructor(6.14.0 breaking changes) [#27897](https://github.com/prisma/prisma/pull/27897)
