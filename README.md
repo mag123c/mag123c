@@ -59,6 +59,8 @@
 
 ### [typeorm](https://github.com/typeorm/typeorm)
 - 🔄 fix: include joined entity primary keys in pagination subquery [#11669](https://github.com/typeorm/typeorm/pull/11669)
+- 🔄 refactor: replace sha.js and uuid with native Crypto API [#11769](https://github.com/typeorm/typeorm/pull/11769)
+
 
 <br>
 <br>
