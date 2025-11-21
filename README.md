@@ -74,9 +74,9 @@
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [Branch와 HEAD로 보는 Git 히스토리 모델(DAG) 이해하기](https://mag1c.tistory.com/590)</br>
 - [Git의 데이터 저장 방식과 commit 이해하기](https://mag1c.tistory.com/589)</br>
 - [어느 주니어 개발자의 첫 퇴사 회고](https://mag1c.tistory.com/588)</br>
 - [NodeJS v25의 변경사항을 알아보자](https://mag1c.tistory.com/587)</br>
 - [MyISAM에서 트랜잭션 사용하기](https://mag1c.tistory.com/586)</br>
 - [개발자로서 첫 발표를 마치고](https://mag1c.tistory.com/585)</br>
-- [Claude Code, OOM과 할루시네이션 없이 똑똑하게 사용하는 메모리 최적화 전략](https://mag1c.tistory.com/584)</br>
