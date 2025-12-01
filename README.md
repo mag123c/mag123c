@@ -63,8 +63,8 @@
 - 🔄 fix: include joined entity primary keys in pagination subquery [#11669](https://github.com/typeorm/typeorm/pull/11669)
 - 🔄 refactor: replace uuid with native Crypto API [#11769](https://github.com/typeorm/typeorm/pull/11769)
 
-### [🥕daangn/ventyd](https://github.com/daangn/ventyd)
-- 🔄 fix: improve validation error messages [#46](https://github.com/daangn/ventyd/pull/46)
+### [daangn/ventyd](https://github.com/daangn/ventyd)
+- ✅ fix: improve validation error messages [#46](https://github.com/daangn/ventyd/pull/46)
 
 
 <br>
