@@ -1,4 +1,4 @@
-With [nestjs-stdschema](https://github.com/mag123c/nestjs-stdschema), Universal schema validation for NestJS using the standard-schema specification.
+**With [nestjs-stdschema](https://github.com/mag123c/nestjs-stdschema), Universal schema validation for NestJS using the standard-schema specification.**
 
 <br>
 <br>
