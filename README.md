@@ -79,9 +79,9 @@
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [NestJS standard-schema 기반 유효성 검사 오픈소스를 만들었어요](https://mag1c.tistory.com/592)</br>
 - [Git merge / rebase / cherry-pick으로 히스토리 다루기](https://mag1c.tistory.com/591)</br>
 - [Branch와 HEAD로 보는 Git 히스토리 모델(DAG) 이해하기](https://mag1c.tistory.com/590)</br>
 - [Git의 데이터 저장 방식과 commit 이해하기](https://mag1c.tistory.com/589)</br>
 - [어느 주니어 개발자의 첫 퇴사 회고](https://mag1c.tistory.com/588)</br>
 - [NodeJS v25의 변경사항을 알아보자](https://mag1c.tistory.com/587)</br>
-- [MyISAM에서 트랜잭션 사용하기](https://mag1c.tistory.com/586)</br>
