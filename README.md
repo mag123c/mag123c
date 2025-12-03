@@ -1,5 +1,7 @@
 ### 🔥 Just steady anythhing with whole life 🔥
 
+Use [nestjs-stdschema](https://github.com/mag123c/nestjs-stdschema), Universal schema validation for NestJS using the standard-schema specification.
+
 <br>
 <br>
   
