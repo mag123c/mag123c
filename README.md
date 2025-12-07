@@ -47,7 +47,7 @@
 - ❌ fs: Fixed ENOENT errors on Windows drive root paths [#58989](https://github.com/nodejs/node/pull/58989)
 - 🔄 path: Added exclude option to path.matchesGlob method for advanced pattern filtering and fs.glob consistency [#59061](https://github.com/nodejs/node/pull/59061)
 - 🔄 test_runner: Added classname hierarchy for JUnit reporter [#60220](https://github.com/nodejs/node/pull/60220)
-- 🔄 esm: Fixed improve error messages for ambiguous module syntax [#60376](https://github.com/nodejs/node/pull/60376)
+- ✅ esm: Fixed improve error messages for ambiguous module syntax [#60376](https://github.com/nodejs/node/pull/60376)
 
 ### [prisma](https://github.com/prisma/prisma)
 - ✅ fix(client): add default generic parameters to PrismaClient constructor(6.14.0 breaking changes) [#27897](https://github.com/prisma/prisma/pull/27897)
