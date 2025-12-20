@@ -68,7 +68,7 @@
 - ✅ fix: improve validation error messages [#46](https://github.com/daangn/ventyd/pull/46)
 
 ### [Django Framework](https://github.com/encode/django-rest-framework)
-- 🔄 Fix viewset actions dict being mutated after first request
+- 🔄 Fix viewset actions dict being mutated after first request [#9853](https://github.com/encode/django-rest-framework/pull/9853)
 
 
 <br>
