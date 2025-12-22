@@ -83,7 +83,7 @@
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
-- [CloudFlare WAF 이슈, React의 CVE 보안 취약점이 연달아 터졌다](https://mag1c.tistory.com/595)</br>
+- [React의 CVE 보안 취약점이 연달아 터졌다. (feat. CloudFlare WAF 이슈)](https://mag1c.tistory.com/595)</br>
 - [Python의 GIL(Global Interpreter Lock) - Node와 비교하며 이해하기](https://mag1c.tistory.com/594)</br>
 - [NestJS standard-schema 기반 유효성 검사 오픈소스를 만들었어요](https://mag1c.tistory.com/592)</br>
 - [Git merge / rebase / cherry-pick으로 히스토리 다루기](https://mag1c.tistory.com/591)</br>
