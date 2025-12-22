@@ -16,7 +16,7 @@
   - ✅ core: Resolve extras in configurable module builder async methods [#15705](https://github.com/nestjs/nest/pull/15705)
   - ✅ core: Ensure nested transient provider isolation [#15815](https://github.com/nestjs/nest/pull/15815)
   - ✅ core: Added option for async logger compatibility [#15986](https://github.com/nestjs/nest/pull/15986)
-  - 🔄 core: Resolve instantiate nested transient providers in static context [#16098](https://github.com/nestjs/nest/pull/16098)
+  - ✅ core: Resolve instantiate nested transient providers in static context [#16098](https://github.com/nestjs/nest/pull/16098)
   - ✅ microservices: Fixed custom transport strategy injection in dynamic microservice configuration [#15172](https://github.com/nestjs/nest/pull/15172)
   - ✅ platform-fastify: Fixed FastifyAdapter middleware registration before init in testing scenarios [#15385](https://github.com/nestjs/nest/pull/15385)
   - 🔄 sample: Fixed Sample for update gql federation samples to use production-ready [#15539](https://github.com/nestjs/nest/pull/15539)
