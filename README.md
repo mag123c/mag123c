@@ -42,7 +42,7 @@
   - ✅ docs: Added Vitest alias resolution configuration for SWC setup [#3204](https://github.com/nestjs/docs.nestjs.com/pull/3204)
   - ✅ docs: Improved Swagger UI and raw options documentation [#3206](https://github.com/nestjs/docs.nestjs.com/pull/3206)
 
-### [nodejs](https://github.com/nodejs)
+### [nodejs](https://github.com/nodejs/node)
 - ✅ doc: Enhanced HTTP agent createConnection documentation with synchronous behavior clarification [#58205](https://github.com/nodejs/node/pull/58205)
 - 🔄 doc: Improved glob pattern documentation with detailed syntax and examples [#58988](https://github.com/nodejs/node/pull/58988)
 - ❌ fs: Fixed ENOENT errors on Windows drive root paths [#58989](https://github.com/nodejs/node/pull/58989)
