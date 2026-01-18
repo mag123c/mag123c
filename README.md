@@ -59,6 +59,7 @@
 
 ### [grafana/loki](https://github.com/grafana/loki)
 - 🔄 feat: add default loki-mixin dashboards to TSDB [#18732](https://github.com/grafana/loki/pull/18732)
+- 🔄 docs: fix generic placeholder definitions for int and duration types [#20485](https://github.com/grafana/loki/pull/20485)
 
 ### [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 - ✅ perf: parallelize memory discovery file operations 60%+ performance gain [#5751](https://github.com/google-gemini/gemini-cli/pull/5751)
