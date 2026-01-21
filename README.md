@@ -93,9 +93,9 @@
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [GoP(Garden of Practice) 회고 - 주니어 개발자 성장을 위한 커뮤니티!?](https://mag1c.tistory.com/600)</br>
 - [나아가면서 되돌아보자.](https://mag1c.tistory.com/599)</br>
 - [3년차 백엔드 개발자의 2025년 회고 (첫 이직)](https://mag1c.tistory.com/598)</br>
 - [Python의 WSGI(Web Server Gateway Interface) - Node와 비교하며 이해하기](https://mag1c.tistory.com/596)</br>
 - [React의 CVE 보안 취약점이 연달아 터졌다. (feat. CloudFlare WAF 이슈)](https://mag1c.tistory.com/595)</br>
 - [Python의 GIL(Global Interpreter Lock) - Node와 비교하며 이해하기](https://mag1c.tistory.com/594)</br>
-- [NestJS standard-schema 기반 유효성 검사 오픈소스를 만들었어요](https://mag1c.tistory.com/592)</br>
