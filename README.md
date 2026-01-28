@@ -54,44 +54,25 @@
 - ✅ doc: Added reusePort error behavior to net module [#61250](https://github.com/nodejs/node/pull/61250)
 - 🔄 test_runner: Print coverage and diagnostic info with dot reporter [#61423](https://github.com/nodejs/node/pull/61423)
 
-### [prisma](https://github.com/prisma/prisma)
-- ✅ fix(client): add default generic parameters to PrismaClient constructor(6.14.0 breaking changes) [#27897](https://github.com/prisma/prisma/pull/27897)
-
-### [grafana/loki](https://github.com/grafana/loki)
-- 🔄 feat: add default loki-mixin dashboards to TSDB [#18732](https://github.com/grafana/loki/pull/18732)
-- ✅ docs: fix generic placeholder definitions for int and duration types [#20485](https://github.com/grafana/loki/pull/20485)
-
-### [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-- ✅ perf: parallelize memory discovery file operations 60%+ performance gain [#5751](https://github.com/google-gemini/gemini-cli/pull/5751)
-- 🔄 fix(cli): remove user email from /about command output [#17650](https://github.com/google-gemini/gemini-cli/pull/17650)
-
-### [typeorm](https://github.com/typeorm/typeorm)
-- ✅ fix: include joined entity primary keys in pagination subquery [#11669](https://github.com/typeorm/typeorm/pull/11669)
-- ✅ refactor: replace uuid with native Crypto API [#11769](https://github.com/typeorm/typeorm/pull/11769)
-
-### [daangn/ventyd](https://github.com/daangn/ventyd)
-- ✅ fix: improve validation error messages [#46](https://github.com/daangn/ventyd/pull/46)
-- ❌ fix: verify second listener called in test code [#48](https://github.com/daangn/ventyd/pull/48)
-
-### [django-rest-framework](https://github.com/encode/django-rest-framework)
-- 🔄 Fix viewset actions dict being mutated after first request [#9853](https://github.com/encode/django-rest-framework/pull/9853)
-- 🔄 Add nulls_distinct support to UniqueTogetherValidator [#9866](https://github.com/encode/django-rest-framework/pull/9866)
-
-### [encode/django-rest-framework](https://github.com/encode/django-rest-framework)
-- 🔄 Add nulls_distinct support to UniqueTogetherValidator [#9866](https://github.com/encode/django-rest-framework/pull/9866)
-- 🔄 Fix viewset actions dict being mutated after first request [#9853](https://github.com/encode/django-rest-framework/pull/9853)
-
-### [n8n-io/n8n](https://github.com/n8n-io/n8n)
-- 🔄 fix(Slack Trigger Node): Fix user ignore filter for message_changed events [#23894](https://github.com/n8n-io/n8n/pull/23894)
-- 🔄 fix(Schedule Trigger Node): Reset recurrence rules when schedule changes [#23840](https://github.com/n8n-io/n8n/pull/23840)
+### [loki](https://github.com/grafana/loki)
+- ✅ fix generic placeholder definitions for int and duration types [#20485](https://github.com/grafana/loki/pull/20485)
+- 🔄 default loki-mixin dashboards to TSDB [#18732](https://github.com/grafana/loki/pull/18732)
 
 ### [gemini-cli](https://github.com/google-gemini/gemini-cli)
 - 🔄 remove user email from /about command output [#17650](https://github.com/google-gemini/gemini-cli/pull/17650)
 - ✅ parallelize memory discovery file operations performance gain [#5751](https://github.com/google-gemini/gemini-cli/pull/5751)
 
-### [loki](https://github.com/grafana/loki)
-- ✅ fix generic placeholder definitions for int and duration types [#20485](https://github.com/grafana/loki/pull/20485)
-- 🔄 default loki-mixin dashboards to TSDB [#18732](https://github.com/grafana/loki/pull/18732)
+### [prisma](https://github.com/prisma/prisma)
+- ✅ fix(client): add default generic parameters to PrismaClient constructor(6.14.0 breaking changes) [#27897](https://github.com/prisma/prisma/pull/27897)
+
+### [typeorm](https://github.com/typeorm/typeorm)
+- ✅ fix: include joined entity primary keys in pagination subquery [#11669](https://github.com/typeorm/typeorm/pull/11669)
+- ✅ refactor: replace uuid with native Crypto API [#11769](https://github.com/typeorm/typeorm/pull/11769)
+
+### [django-rest-framework](https://github.com/encode/django-rest-framework)
+- 🔄 Fix viewset actions dict being mutated after first request [#9853](https://github.com/encode/django-rest-framework/pull/9853)
+- 🔄 Add nulls_distinct support to UniqueTogetherValidator [#9866](https://github.com/encode/django-rest-framework/pull/9866)
+ango-rest-framework/pull/9853)
 
 ### [n8n](https://github.com/n8n-io/n8n)
 - 🔄 Fix user ignore filter for message_changed events [#23894](https://github.com/n8n-io/n8n/pull/23894)
