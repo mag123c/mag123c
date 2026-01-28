@@ -85,6 +85,22 @@
 - 🔄 fix(Slack Trigger Node): Fix user ignore filter for message_changed events [#23894](https://github.com/n8n-io/n8n/pull/23894)
 - 🔄 fix(Schedule Trigger Node): Reset recurrence rules when schedule changes [#23840](https://github.com/n8n-io/n8n/pull/23840)
 
+### [gemini-cli](https://github.com/google-gemini/gemini-cli)
+- 🔄 remove user email from /about command output [#17650](https://github.com/google-gemini/gemini-cli/pull/17650)
+- ✅ parallelize memory discovery file operations performance gain [#5751](https://github.com/google-gemini/gemini-cli/pull/5751)
+
+### [loki](https://github.com/grafana/loki)
+- ✅ fix generic placeholder definitions for int and duration types [#20485](https://github.com/grafana/loki/pull/20485)
+- 🔄 default loki-mixin dashboards to TSDB [#18732](https://github.com/grafana/loki/pull/18732)
+
+### [n8n](https://github.com/n8n-io/n8n)
+- 🔄 Fix user ignore filter for message_changed events [#23894](https://github.com/n8n-io/n8n/pull/23894)
+- 🔄 Reset recurrence rules when schedule changes [#23840](https://github.com/n8n-io/n8n/pull/23840)
+
+### [ventyd](https://github.com/daangn/ventyd)
+- ❌ verify second listener called in test code [#48](https://github.com/daangn/ventyd/pull/48)
+- ✅ improve validation error messages [#46](https://github.com/daangn/ventyd/pull/46)
+
 
 <br>
 <br>
