@@ -40,10 +40,6 @@
   - 🔄 terminus: Enhanced production-ready with GracefulShutdown sequence [#2671](https://github.com/nestjs/terminus/pull/2671)
   - 🔄 terminus: Update amqplib to 0.10.6 for rmq 4.1+ compatibility [#2673](https://github.com/nestjs/terminus/pull/2673)
   
-  [**docs**](https://github.com/nestjs/docs.nestjs.com)
-  - ✅ docs: Added Vitest alias resolution configuration for SWC setup [#3204](https://github.com/nestjs/docs.nestjs.com/pull/3204)
-  - ✅ docs: Improved Swagger UI and raw options documentation [#3206](https://github.com/nestjs/docs.nestjs.com/pull/3206)
-  
   [**docs.nestjs.com**](https://github.com/nestjs/docs.nestjs.com)
   - ✅ docs(swagger): add ui/raws description, hint [#3206](https://github.com/nestjs/docs.nestjs.com/pull/3206)
   - ✅ docs(swc): add vitest alias resolution configuration [#3204](https://github.com/nestjs/docs.nestjs.com/pull/3204)
@@ -92,38 +88,6 @@
 ### [n8n-io/n8n](https://github.com/n8n-io/n8n)
 - 🔄 fix(Slack Trigger Node): Fix user ignore filter for message_changed events [#23894](https://github.com/n8n-io/n8n/pull/23894)
 - 🔄 fix(Schedule Trigger Node): Reset recurrence rules when schedule changes [#23840](https://github.com/n8n-io/n8n/pull/23840)
-
-### [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-- ❌ fix(checker): detect self-reference in parameter property initializers [#62420](https://github.com/microsoft/TypeScript/pull/62420)
-- ❌ Fix findAllReferences for export= namespace with ES6 imports [#62412](https://github.com/microsoft/TypeScript/pull/62412)
-
-### [ts-backend-meetup-ts/meetup](https://github.com/ts-backend-meetup-ts/meetup)
-- ✅ Update README.md [#8](https://github.com/ts-backend-meetup-ts/meetup/pull/8)
-
-### [weekly-academy/members](https://github.com/weekly-academy/members)
-- 🔄 Update members.yaml [#136](https://github.com/weekly-academy/members/pull/136)
-
-### [sil-0908/Goott-2nd-Project](https://github.com/sil-0908/Goott-2nd-Project)
-- ✅ 회원가입 검수 [#70](https://github.com/sil-0908/Goott-2nd-Project/pull/70)
-- ✅ 2222222 [#68](https://github.com/sil-0908/Goott-2nd-Project/pull/68)
-- ✅ 0309 ㅋ [#67](https://github.com/sil-0908/Goott-2nd-Project/pull/67)
-- ✅ ㅇㄴㅁ [#58](https://github.com/sil-0908/Goott-2nd-Project/pull/58)
-- ❌ ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ [#57](https://github.com/sil-0908/Goott-2nd-Project/pull/57)
-- ✅ 0307ㅋㅋㅋㅋㅋㅋㅋ [#51](https://github.com/sil-0908/Goott-2nd-Project/pull/51)
-- ✅ 0227 메롱 [#37](https://github.com/sil-0908/Goott-2nd-Project/pull/37)
-- ✅ 0224 장재호 [#31](https://github.com/sil-0908/Goott-2nd-Project/pull/31)
-- ✅ 0220 장재호 [#25](https://github.com/sil-0908/Goott-2nd-Project/pull/25)
-- ✅ 0217 치킨요정 [#22](https://github.com/sil-0908/Goott-2nd-Project/pull/22)
-- ✅ 0215 개똥벌레 [#16](https://github.com/sil-0908/Goott-2nd-Project/pull/16)
-- ✅ API LOGIN(KAKAO, NAVER) 완료 - 02.10 장재호 [#9](https://github.com/sil-0908/Goott-2nd-Project/pull/9)
-- ✅ USER팀 0209취합 후 업로드 [#5](https://github.com/sil-0908/Goott-2nd-Project/pull/5)
-- ✅ 실험쥐 [#3](https://github.com/sil-0908/Goott-2nd-Project/pull/3)
-- ❌ 새로운 실험쥐 [#2](https://github.com/sil-0908/Goott-2nd-Project/pull/2)
-- ✅ 0207 장재호 실험쥐 [#1](https://github.com/sil-0908/Goott-2nd-Project/pull/1)
-
-### [jmcho2010/gunchim](https://github.com/jmcho2010/gunchim)
-- ✅ dsad [#20](https://github.com/jmcho2010/gunchim/pull/20)
-- ✅ 2022.12.19 mag123c 커밋하라고하셔서서 커밋함 [#8](https://github.com/jmcho2010/gunchim/pull/8)
 
 
 <br>
