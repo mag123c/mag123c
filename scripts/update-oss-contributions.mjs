@@ -7,6 +7,15 @@ const README_PATH = 'README.md';
 // nestjs만 2depth (repo별 분류)
 const TWO_DEPTH_ORGS = ['nestjs'];
 
+// 블랙리스트 (owner/repo 형식)
+const BLACKLIST_REPOS = [
+  'microsoft/TypeScript',
+  'ts-backend-meetup-ts/meetup',
+  'weekly-academy/members',
+  'sil-0908/Goott-2nd-Project',
+  'jmcho2010/gunchim',
+];
+
 // 상태 이모지
 const STATUS_EMOJI = {
   merged: '✅',
@@ -54,6 +63,9 @@ async function getPRDetails(pr) {
 
   // 내 레포 제외
   if (owner.toLowerCase() === USERNAME.toLowerCase()) return null;
+
+  // 블랙리스트 레포 제외
+  if (BLACKLIST_REPOS.includes(`${owner}/${repo}`)) return null;
 
   // PR 상세 정보 가져오기 (merged 여부 확인)
   const prUrl = `https://api.github.com/repos/${owner}/${repo}/pulls/${number}`;
@@ -162,9 +174,9 @@ function buildOrgKey(owner, repo) {
   // - nodejs/node → nodejs (특수 케이스)
   // - prisma/prisma → prisma (org === repo)
   // - typeorm/typeorm → typeorm (org === repo)
-  // - grafana/loki → grafana/loki (org !== repo)
-  // - google-gemini/gemini-cli → google-gemini/gemini-cli (org !== repo)
-  // - daangn/ventyd → daangn/ventyd (org !== repo)
+  // - grafana/loki → loki (repo명만 사용)
+  // - google-gemini/gemini-cli → gemini-cli (repo명만 사용)
+  // - daangn/ventyd → ventyd (repo명만 사용)
 
   // nestjs는 2depth org
   if (TWO_DEPTH_ORGS.includes(owner)) {
@@ -181,8 +193,8 @@ function buildOrgKey(owner, repo) {
     return owner;
   }
 
-  // 그 외는 org/repo
-  return `${owner}/${repo}`;
+  // 그 외는 repo명만 사용
+  return repo;
 }
 
 function buildOrgUrl(owner, repo, orgKey) {
@@ -191,6 +203,16 @@ function buildOrgUrl(owner, repo, orgKey) {
     return `https://github.com/${owner}`;
   }
   return `https://github.com/${owner}/${repo}`;
+}
+
+function cleanPRTitle(title) {
+  // conventional commit 스타일 prefix 제거
+  // 예: "fix(Slack Trigger Node): Fix user ignore filter" → "Fix user ignore filter"
+  // 예: "feat: Add new feature" → "Add new feature"
+  if (title.includes(':')) {
+    return title.split(':').slice(1).join(':').trim();
+  }
+  return title;
 }
 
 function generateContributionsSection(sections, order) {
@@ -263,7 +285,7 @@ function mergeContributions(existing, newPRs, orgOrder) {
         // 새 PR 추가
         repoPRs.push({
           status: emoji,
-          description: pr.title,
+          description: cleanPRTitle(pr.title),
           number: pr.number,
           url: pr.url,
         });
@@ -280,7 +302,7 @@ function mergeContributions(existing, newPRs, orgOrder) {
         // 새 PR 추가
         orgPRs.push({
           status: emoji,
-          description: pr.title,
+          description: cleanPRTitle(pr.title),
           number: pr.number,
           url: pr.url,
         });
