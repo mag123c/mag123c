@@ -59,7 +59,7 @@
 - 🔄 default loki-mixin dashboards to TSDB [#18732](https://github.com/grafana/loki/pull/18732)
 
 ### [gemini-cli](https://github.com/google-gemini/gemini-cli)
-- 🔄 remove user email from /about command output [#17650](https://github.com/google-gemini/gemini-cli/pull/17650)
+- ❌ remove user email from /about command output [#17650](https://github.com/google-gemini/gemini-cli/pull/17650)
 - ✅ parallelize memory discovery file operations performance gain [#5751](https://github.com/google-gemini/gemini-cli/pull/5751)
 
 ### [prisma](https://github.com/prisma/prisma)
@@ -72,7 +72,6 @@
 ### [django-rest-framework](https://github.com/encode/django-rest-framework)
 - 🔄 Fix viewset actions dict being mutated after first request [#9853](https://github.com/encode/django-rest-framework/pull/9853)
 - 🔄 Add nulls_distinct support to UniqueTogetherValidator [#9866](https://github.com/encode/django-rest-framework/pull/9866)
-ango-rest-framework/pull/9853)
 
 ### [n8n](https://github.com/n8n-io/n8n)
 - 🔄 Fix user ignore filter for message_changed events [#23894](https://github.com/n8n-io/n8n/pull/23894)
