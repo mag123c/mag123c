@@ -61,6 +61,7 @@
 ### [gemini-cli](https://github.com/google-gemini/gemini-cli)
 - ❌ remove user email from /about command output [#17650](https://github.com/google-gemini/gemini-cli/pull/17650)
 - ✅ parallelize memory discovery file operations performance gain [#5751](https://github.com/google-gemini/gemini-cli/pull/5751)
+- ❌ handle EISDIR error when GEMINI.md is a directory [#17840](https://github.com/google-gemini/gemini-cli/pull/17840)
 
 ### [prisma](https://github.com/prisma/prisma)
 - ✅ fix(client): add default generic parameters to PrismaClient constructor(6.14.0 breaking changes) [#27897](https://github.com/prisma/prisma/pull/27897)
