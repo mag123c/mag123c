@@ -1,7 +1,6 @@
 **With [nestjs-stdschema](https://github.com/mag123c/nestjs-stdschema), Universal schema validation for NestJS using the standard-schema specification.**
 
 **With [toktrack](https://github.com/mag123c/toktrack), Ultra-fast token & cost tracker for AI coding CLIs (Claude Code, Codex CLI, Gemini CLI)**
-- Rust + simd-json, ~40x faster than existing tools.
 
   
 <br>
