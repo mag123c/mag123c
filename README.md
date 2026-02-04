@@ -98,7 +98,7 @@
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
-- [2026년 1월 회고 - 이직 후 적응하기 등..](https://mag1c.tistory.com/602)</br>
+- [2026년 1월 회고 - 이직 후 적응하기, 러너스하이 2기, Claude Code Max 200$ 등..](https://mag1c.tistory.com/602)</br>
 - [ccusage보다 1000배 빠른 AI 토큰 트래커 오픈소스를 만들기까지](https://mag1c.tistory.com/601)</br>
 - [GoP(Garden of Practice) 회고 - 주니어 개발자 성장을 위한 커뮤니티!?](https://mag1c.tistory.com/600)</br>
 - [나아가면서 되돌아보자.](https://mag1c.tistory.com/599)</br>
