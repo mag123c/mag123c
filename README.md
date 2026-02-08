@@ -25,7 +25,6 @@
   - 🔄 sample: Fixed Sample for update gql federation samples to use production-ready [#15539](https://github.com/nestjs/nest/pull/15539)
   - ✅ sample: Made sample 34 test resilient to external package format changes [#15835](https://github.com/nestjs/nest/pull/15835)
   - ✅ sample: Fixed sample 22 for Prisma 7 compatibility [#15984](https://github.com/nestjs/nest/pull/15984)
-  - ❌ fix(core): isolate nested transient providers in static context [#16258](https://github.com/nestjs/nest/pull/16258)
   
   [**graphql**](https://github.com/nestjs/graphql)
   - ✅ graphql: Added typeName option for custom type naming [#3678](https://github.com/nestjs/graphql/pull/3678)
@@ -62,9 +61,7 @@
 - 🔄 default loki-mixin dashboards to TSDB [#18732](https://github.com/grafana/loki/pull/18732)
 
 ### [gemini-cli](https://github.com/google-gemini/gemini-cli)
-- ❌ remove user email from /about command output [#17650](https://github.com/google-gemini/gemini-cli/pull/17650)
 - ✅ parallelize memory discovery file operations performance gain [#5751](https://github.com/google-gemini/gemini-cli/pull/5751)
-- ❌ handle EISDIR error when GEMINI.md is a directory [#17840](https://github.com/google-gemini/gemini-cli/pull/17840)
 
 ### [prisma](https://github.com/prisma/prisma)
 - ✅ fix(client): add default generic parameters to PrismaClient constructor(6.14.0 breaking changes) [#27897](https://github.com/prisma/prisma/pull/27897)
@@ -82,7 +79,6 @@
 - 🔄 Reset recurrence rules when schedule changes [#23840](https://github.com/n8n-io/n8n/pull/23840)
 
 ### [ventyd](https://github.com/daangn/ventyd)
-- ❌ verify second listener called in test code [#48](https://github.com/daangn/ventyd/pull/48)
 - ✅ improve validation error messages [#46](https://github.com/daangn/ventyd/pull/46)
 
 
