@@ -22,7 +22,7 @@
   - ✅ core: Resolve instantiate nested transient providers in static context [#16098](https://github.com/nestjs/nest/pull/16098)
   - ✅ microservices: Fixed custom transport strategy injection in dynamic microservice configuration [#15172](https://github.com/nestjs/nest/pull/15172)
   - ✅ platform-fastify: Fixed FastifyAdapter middleware registration before init in testing scenarios [#15385](https://github.com/nestjs/nest/pull/15385)
-  - 🔄 sample: Fixed Sample for update gql federation samples to use production-ready [#15539](https://github.com/nestjs/nest/pull/15539)
+  - ✅ sample: Fixed Sample for update gql federation samples to use production-ready [#15539](https://github.com/nestjs/nest/pull/15539)
   - ✅ sample: Made sample 34 test resilient to external package format changes [#15835](https://github.com/nestjs/nest/pull/15835)
   - ✅ sample: Fixed sample 22 for Prisma 7 compatibility [#15984](https://github.com/nestjs/nest/pull/15984)
   - ❌ isolate nested transient providers in static context [#16258](https://github.com/nestjs/nest/pull/16258)
