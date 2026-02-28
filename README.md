@@ -2,7 +2,6 @@
 
 **With [toktrack](https://github.com/mag123c/toktrack), Ultra-fast token & cost tracker for AI coding CLIs (Claude Code, Codex CLI, Gemini CLI)**
 
-  
 <br>
 <br>
   
