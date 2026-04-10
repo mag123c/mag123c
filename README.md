@@ -60,7 +60,7 @@
 ### [loki](https://github.com/grafana/loki)
 - ✅ fix generic placeholder definitions for int and duration types [#20485](https://github.com/grafana/loki/pull/20485)
 - 🔄 default loki-mixin dashboards to TSDB [#18732](https://github.com/grafana/loki/pull/18732)
-- 🔄 Always respect configured registry in image references [#21276](https://github.com/grafana/loki/pull/21276)
+- ❌ Always respect configured registry in image references [#21276](https://github.com/grafana/loki/pull/21276)
 
 ### [gemini-cli](https://github.com/google-gemini/gemini-cli)
 - ✅ parallelize memory discovery file operations performance gain [#5751](https://github.com/google-gemini/gemini-cli/pull/5751)
