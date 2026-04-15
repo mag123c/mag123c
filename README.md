@@ -1,6 +1,6 @@
 ![toktrack overview](assets/demo.gif)
 
-**With [toktrack](https://github.com/mag123c/toktrack), Ultra-fast token & cost tracker for AI coding CLIs (Claude Code, Codex CLI, Gemini CLI)**
+**With [toktrack](https://github.com/mag123c/toktrack), Ultra-fast token & cost tracker for AI coding CLIs (Claude Code, Codex CLI, Gemini CLI, PI Agent)**
 **Always supports latest LLMs**
 
 <br>
