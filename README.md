@@ -35,7 +35,7 @@
   - ✅ Added custom extension properties support for security schemes [#3248](https://github.com/nestjs/swagger/pull/3248)
   - ✅ Restored x-enumNames support for better API client generator compatibility [#3307](https://github.com/nestjs/swagger/pull/3307)
   - ✅ Added skipDefaultValues option to omit unspecified default fields and corresponding test [#3423](https://github.com/nestjs/swagger/pull/3423)
-  - 🔄 Added type definition for format option in @ApiProperty() [#3596](https://github.com/nestjs/swagger/pull/3596)
+  - ❌ Added type definition for format option in @ApiProperty() [#3596](https://github.com/nestjs/swagger/pull/3596)
   - ❌ feat(swagger): add extension in SecuritySchemeObject [#3247](https://github.com/nestjs/swagger/pull/3247)
   
   [**terminus**](https://github.com/nestjs/terminus)
@@ -61,6 +61,7 @@
 - ✅ fix generic placeholder definitions for int and duration types [#20485](https://github.com/grafana/loki/pull/20485)
 - ✅ default loki-mixin dashboards to TSDB [#18732](https://github.com/grafana/loki/pull/18732)
 - ❌ Always respect configured registry in image references [#21276](https://github.com/grafana/loki/pull/21276)
+- 🔄 allow ring kvstore backend override in Tanka Loki [#21556](https://github.com/grafana/loki/pull/21556)
 
 ### [gemini-cli](https://github.com/google-gemini/gemini-cli)
 - ✅ parallelize memory discovery file operations performance gain [#5751](https://github.com/google-gemini/gemini-cli/pull/5751)
