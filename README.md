@@ -82,7 +82,7 @@
 
 ### [n8n](https://github.com/n8n-io/n8n)
 - 🔄 Fix user ignore filter for message_changed events [#23894](https://github.com/n8n-io/n8n/pull/23894)
-- 🔄 Reset recurrence rules when schedule changes [#23840](https://github.com/n8n-io/n8n/pull/23840)
+- ❌ Reset recurrence rules when schedule changes [#23840](https://github.com/n8n-io/n8n/pull/23840)
 
 ### [ventyd](https://github.com/daangn/ventyd)
 - ✅ improve validation error messages [#46](https://github.com/daangn/ventyd/pull/46)
