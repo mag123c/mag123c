@@ -107,9 +107,9 @@
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
+- [HTTP QUERY method는 POST /search를 대체할 수 있을까](https://mag1c.tistory.com/612)</br>
 - [티빙, 패스트캠퍼스, 모두의 창업 등 이어지는 개인 정보 유출과 최근 개발 방식에 대한 회고](https://mag1c.tistory.com/611)</br>
 - [5월 회고 - AI가 개발자에게 가져다준 명암](https://mag1c.tistory.com/610)</br>
 - [4월 회고 - Claude Blue와 Grafana Meetup 오거나이저](https://mag1c.tistory.com/609)</br>
 - [늦은 3월 회고 - 기존의 업무 방식을 깨보기, AX로 나아가기](https://mag1c.tistory.com/608)</br>
 - [uWSGI buffer-size와 502, 서버가 죽었나?](https://mag1c.tistory.com/607)</br>
-- [입사 후 개인의 불편함에서 시작해 전사 AI 플랫폼을 만들기까지](https://mag1c.tistory.com/606)</br>
