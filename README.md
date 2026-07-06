@@ -87,7 +87,12 @@
 ### [ventyd](https://github.com/daangn/ventyd)
 - ✅ improve validation error messages [#46](https://github.com/daangn/ventyd/pull/46)
 - ❌ verify second listener called in test code [#48](https://github.com/daangn/ventyd/pull/48)
-ithub.com/agarrharr/awesome-cli-apps/pull/1141)
+
+### [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+- ✅ Add toktrack to Applications/Productivity [#2554](https://github.com/rust-unofficial/awesome-rust/pull/2554)
+
+### [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
+- ✅ Add toktrack [#1141](https://github.com/agarrharr/awesome-cli-apps/pull/1141)
 
 
 <br>
