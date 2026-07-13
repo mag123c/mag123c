@@ -14,6 +14,9 @@ const BLACKLIST_REPOS = [
   'weekly-academy/members',
   'sil-0908/Goott-2nd-Project',
   'jmcho2010/gunchim',
+  // toktrack 자기 홍보용 awesome 리스트 등재 (기여 아님, 트래킹 제외)
+  'rust-unofficial/awesome-rust',
+  'agarrharr/awesome-cli-apps',
 ];
 
 // 상태 이모지
