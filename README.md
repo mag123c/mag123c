@@ -94,6 +94,9 @@
 ### [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
 - ✅ Add toktrack [#1141](https://github.com/agarrharr/awesome-cli-apps/pull/1141)
 
+### [simd-json](https://github.com/simd-lite/simd-json)
+- 🔄 Add integer parsing error-path test coverage [#465](https://github.com/simd-lite/simd-json/pull/465)
+
 
 <br>
 <br>
