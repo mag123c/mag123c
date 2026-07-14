@@ -89,7 +89,8 @@
 - ❌ verify second listener called in test code [#48](https://github.com/daangn/ventyd/pull/48)
 
 ### [simd-json](https://github.com/simd-lite/simd-json)
-- 🔄 Add integer parsing error-path test coverage [#465](https://github.com/simd-lite/simd-json/pull/465)
+- ✅ Add integer parsing error-path test coverage [#465](https://github.com/simd-lite/simd-json/pull/465)
+- 🔄 Add approx integer parsing error-path test coverage [#466](https://github.com/simd-lite/simd-json/pull/466)
 
 
 <br>
