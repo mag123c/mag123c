@@ -90,7 +90,8 @@
 
 ### [simd-json](https://github.com/simd-lite/simd-json)
 - ✅ Add integer parsing error-path test coverage [#465](https://github.com/simd-lite/simd-json/pull/465)
-- 🔄 Add approx integer parsing error-path test coverage [#466](https://github.com/simd-lite/simd-json/pull/466)
+- ✅ Add approx integer parsing error-path test coverage [#466](https://github.com/simd-lite/simd-json/pull/466)
+- 🔄 Add approx large-integer overflow/boundary test coverage [#467](https://github.com/simd-lite/simd-json/pull/467)
 
 
 <br>
