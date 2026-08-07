@@ -78,7 +78,7 @@
 
 ### [django-rest-framework](https://github.com/encode/django-rest-framework)
 - 🔄 Fix viewset actions dict being mutated after first request [#9853](https://github.com/encode/django-rest-framework/pull/9853)
-- 🔄 Add nulls_distinct support to UniqueTogetherValidator [#9866](https://github.com/encode/django-rest-framework/pull/9866)
+- ✅ Add nulls_distinct support to UniqueTogetherValidator [#9866](https://github.com/encode/django-rest-framework/pull/9866)
 
 ### [n8n](https://github.com/n8n-io/n8n)
 - ❌ Fix user ignore filter for message_changed events [#23894](https://github.com/n8n-io/n8n/pull/23894)
