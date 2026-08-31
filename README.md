@@ -42,7 +42,7 @@
   [**terminus**](https://github.com/nestjs/terminus)
   - ✅ terminus: Added forRootAsync for DynamicModule Configurations [#2670](https://github.com/nestjs/terminus/pull/2670)
   - 🔄 terminus: Enhanced production-ready with GracefulShutdown sequence [#2671](https://github.com/nestjs/terminus/pull/2671)
-  - 🔄 terminus: Update amqplib to 0.10.6 for rmq 4.1+ compatibility [#2673](https://github.com/nestjs/terminus/pull/2673)
+  - ❌ terminus: Update amqplib to 0.10.6 for rmq 4.1+ compatibility [#2673](https://github.com/nestjs/terminus/pull/2673)
   
   [**docs.nestjs.com**](https://github.com/nestjs/docs.nestjs.com)
   - ✅ docs(swagger): add ui/raws description, hint [#3206](https://github.com/nestjs/docs.nestjs.com/pull/3206)
