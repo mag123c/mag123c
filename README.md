@@ -93,7 +93,7 @@
 - ✅ Add approx integer parsing error-path test coverage [#466](https://github.com/simd-lite/simd-json/pull/466)
 - ✅ Add approx large-integer overflow/boundary test coverage [#467](https://github.com/simd-lite/simd-json/pull/467)
 
-### [orm](https://github.com/prisma/orm)
+### [prisma/orm](https://github.com/prisma/orm)
 - ✅ add default generic parameters to PrismaClient constructor [#27897](https://github.com/prisma/orm/pull/27897)
 
 
