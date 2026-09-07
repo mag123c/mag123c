@@ -19,6 +19,13 @@ const BLACKLIST_REPOS = [
   'agarrharr/awesome-cli-apps',
 ];
 
+// 레포 rename 대응 (현재 owner/repo → README 표기 owner/repo)
+// GitHub 검색 API가 리네임된 현재 이름을 돌려주기 때문에, 매핑이 없으면
+// 같은 PR이 새 org 섹션으로 중복 생성된다 (prisma/prisma → prisma/orm).
+const RENAMED_REPOS = {
+  'prisma/orm': 'prisma/prisma',
+};
+
 // 상태 이모지
 const STATUS_EMOJI = {
   merged: '✅',
@@ -62,7 +69,10 @@ async function getPRDetails(pr) {
   const match = pr.html_url.match(/github\.com\/([^/]+)\/([^/]+)\/pull\/(\d+)/);
   if (!match) return null;
 
-  const [, owner, repo, number] = match;
+  const [, currentOwner, currentRepo, number] = match;
+  const [owner, repo] = (
+    RENAMED_REPOS[`${currentOwner}/${currentRepo}`] ?? `${currentOwner}/${currentRepo}`
+  ).split('/');
 
   // 내 레포 제외
   if (owner.toLowerCase() === USERNAME.toLowerCase()) return null;
@@ -70,8 +80,8 @@ async function getPRDetails(pr) {
   // 블랙리스트 레포 제외
   if (BLACKLIST_REPOS.includes(`${owner}/${repo}`)) return null;
 
-  // PR 상세 정보 가져오기 (merged 여부 확인)
-  const prUrl = `https://api.github.com/repos/${owner}/${repo}/pulls/${number}`;
+  // PR 상세 정보 가져오기 (merged 여부 확인) — 조회는 리네임된 현재 경로로
+  const prUrl = `https://api.github.com/repos/${currentOwner}/${currentRepo}/pulls/${number}`;
   const response = await fetch(prUrl, {
     headers: {
       Authorization: `Bearer ${GITHUB_TOKEN}`,
@@ -99,7 +109,7 @@ async function getPRDetails(pr) {
     number: parseInt(number),
     title: pr.title,
     status,
-    url: pr.html_url,
+    url: `https://github.com/${owner}/${repo}/pull/${number}`,
   };
 }
 
