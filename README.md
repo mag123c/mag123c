@@ -13,7 +13,7 @@
   [**nest**](https://github.com/nestjs/nest)
   - ✅ common: Improved file validation error messages with dynamic context like file size and MIME type [#14213](https://github.com/nestjs/nest/pull/14213)
   - ✅ common: Added mimetype fallback for more reliable file type validation [#14995](https://github.com/nestjs/nest/pull/14995)
-  - 🔄 common: Backport FileTypeValidator fallback support to v10 [#15003](https://github.com/nestjs/nest/pull/15003)
+  - ❌ common: Backport FileTypeValidator fallback support to v10 [#15003](https://github.com/nestjs/nest/pull/15003)
   - ✅ common: Added forceConsole option to ConsoleLogger for bypassing custom loggers when needed [#15503](https://github.com/nestjs/nest/pull/15503)
   - ❌ core: Added declarative route rewrites support for backward compatibility [#15630](https://github.com/nestjs/nest/pull/15630)
   - ✅ core: Skip lifecycle hooks for non-instantiated transient services [#15571](https://github.com/nestjs/nest/pull/15571)
