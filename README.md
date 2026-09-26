@@ -113,3 +113,5 @@
 - [HTTP QUERY method는 POST /search를 대체할 수 있을까](https://mag1c.tistory.com/612)</br>
 - [티빙, 패스트캠퍼스, 모두의 창업 등 이어지는 개인 정보 유출과 최근 개발 방식에 대한 회고](https://mag1c.tistory.com/611)</br>
 - [5월 회고 - AI가 개발자에게 가져다준 명암](https://mag1c.tistory.com/610)</br>
+
+<!-- last touched: 2026-09-26 -->
