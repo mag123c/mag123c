@@ -107,7 +107,7 @@
 
 
 ### 📕 Recent Posting ([tistory](https://mag1c.tistory.com))
-- [요즘 개발자 이력서와 기술 면접은 어떻게 대비해야할까? - 요즘 면접관으로 들어가면서 느끼는것들](https://mag1c.tistory.com/620)</br>
+- [요즘 개발자 이력서와 기술 면접은 어떻게 대비해야할까? - 면접관으로 들어가면서 느끼는것들](https://mag1c.tistory.com/620)</br>
 - [Claude, Codex 1100억 토큰을 쓰면서 느낀 감정의 기록 / 나는 어떻게 성장해야할까?](https://mag1c.tistory.com/619)</br>
 - [PHP2Shell 톺아보기: 요청의 수명과 메모리 오류와 OOM처리](https://mag1c.tistory.com/618)</br>
 - [이직 후 로그 개선을 하려다 SRE에 관심이 생긴 이야기](https://mag1c.tistory.com/616)</br>
